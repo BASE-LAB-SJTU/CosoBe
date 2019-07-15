@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<sessionlog>
 		<session num="1" starttime="0">
-			<iteration num="1" starttime="4.151">
+			<iteration num="1" starttime="4.0511">
 				<query>[java]how to use stringbuffer in java</query>
 				<results>
 					<result rank="1">
@@ -58,17 +58,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10.7171</starttime>
-						<endtime>41.6092</endtime>
+						<starttime>11.9863</starttime>
+						<endtime>71.4555</endtime>
 					</click>
 					<click num="2">
 						<rank>6</rank>
-						<starttime>42.6815</starttime>
-						<endtime>132.1887</endtime>
+						<starttime>80.7372</starttime>
+						<endtime>95.4087</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="136.0323">
+			<iteration num="2" starttime="98.5892">
 				<query>[java]how to use stringbuilder in java</query>
 				<results>
 					<result rank="1">
@@ -125,12 +125,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>139.133</starttime>
-						<endtime>173.7558</endtime>
+						<starttime>104.2471</starttime>
+						<endtime>190.9643</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="177.3373">
+			<iteration num="3" starttime="194.4401">
 				<query>[java]what is the difference between stringbuffer and stringbuilder in java</query>
 				<results>
 					<result rank="1">
@@ -187,14 +187,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>180.2596</starttime>
-						<endtime>236.1288</endtime>
+						<starttime>202.7861</starttime>
+						<endtime>270.9701</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
 		<session num="2" starttime="0">
-			<iteration num="1" starttime="240.9985">
+			<iteration num="1" starttime="5.3904">
 				<query>[java] create new folder</query>
 				<results>
 					<result rank="1">
@@ -251,17 +251,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>242.7086</starttime>
-						<endtime>262.4774</endtime>
+						<starttime>6.3435</starttime>
+						<endtime>23.7781</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>268.9869</starttime>
-						<endtime>304.2124</endtime>
+						<starttime>25.2802</starttime>
+						<endtime>68.8163</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="308.7064">
+			<iteration num="2" starttime="73.3374">
 				<query>[java] create new file</query>
 				<results>
 					<result rank="1">
@@ -318,12 +318,12 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>315.8954</starttime>
-						<endtime>374.5983</endtime>
+						<starttime>81.9721</starttime>
+						<endtime>118.4253</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="377.7012">
+			<iteration num="3" starttime="122.8171">
 				<query>[java] create new file and write</query>
 				<results>
 					<result rank="1">
@@ -380,12 +380,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>384.0571</starttime>
-						<endtime>422.8528</endtime>
+						<starttime>124.3924</starttime>
+						<endtime>162.9866</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="427.7235">
+			<iteration num="4" starttime="167.8458">
 				<query>[java] write to exist file</query>
 				<results>
 					<result rank="1">
@@ -441,7 +441,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="5" starttime="431.1458">
+			<iteration num="5" starttime="172.4782">
 				<query>[java] append exist file</query>
 				<results>
 					<result rank="1">
@@ -498,19 +498,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>434.079</starttime>
-						<endtime>449.7669</endtime>
+						<starttime>173.5365</starttime>
+						<endtime>197.2164</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>455.5986</starttime>
-						<endtime>549.6685</endtime>
+						<starttime>198.3216</starttime>
+						<endtime>246.7848</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
 		<session num="3" starttime="0">
-			<iteration num="1" starttime="554.3136">
+			<iteration num="1" starttime="5.8131">
 				<query>[Java] download files</query>
 				<results>
 					<result rank="1">
@@ -567,12 +567,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>557.4608</starttime>
-						<endtime>560.3772</endtime>
+						<starttime>8.2911</starttime>
+						<endtime>8.5785</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="564.363">
+			<iteration num="2" starttime="12.2149">
 				<query>[Java] download files from the Internet</query>
 				<results>
 					<result rank="1">
@@ -630,7 +630,7 @@
 			</iteration>
 		</session>
 		<session num="4" starttime="0">
-			<iteration num="1" starttime="568.4686">
+			<iteration num="1" starttime="5.5649">
 				<query>[Java] multi-threading</query>
 				<results>
 					<result rank="1">
@@ -686,7 +686,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="572.5665">
+			<iteration num="2" starttime="8.736">
 				<query>[Java] multi-processing</query>
 				<results>
 					<result rank="1">
@@ -743,14 +743,14 @@
 				<clicked>
 					<click num="1">
 						<rank>5</rank>
-						<starttime>577.8921</starttime>
-						<endtime>612.795</endtime>
+						<starttime>11.3295</starttime>
+						<endtime>122.6163</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
 		<session num="5" starttime="0">
-			<iteration num="1" starttime="617.2393">
+			<iteration num="1" starttime="5.3303">
 				<query>[Java] Timeout error</query>
 				<results>
 					<result rank="1">
@@ -807,12 +807,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>617.4972</starttime>
-						<endtime>628.5753</endtime>
+						<starttime>10.3556</starttime>
+						<endtime>45.2694</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="632.0121">
+			<iteration num="2" starttime="50.2692">
 				<query>[Java] Timeout Exception</query>
 				<results>
 					<result rank="1">
@@ -870,7 +870,7 @@
 			</iteration>
 		</session>
 		<session num="6" starttime="0">
-			<iteration num="1" starttime="635.9161">
+			<iteration num="1" starttime="4.0341">
 				<query>[Java] set file permission</query>
 				<results>
 					<result rank="1">
@@ -926,7 +926,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="639.8713">
+			<iteration num="2" starttime="7.2754">
 				<query>[Java] change file permission</query>
 				<results>
 					<result rank="1">
@@ -983,248 +983,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>640.8196</starttime>
-						<endtime>650.9113</endtime>
+						<starttime>10.8305</starttime>
+						<endtime>53.3426</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
 		<session num="7" starttime="0">
-			<iteration num="1" starttime="654.7286">
-				<query>[Java]  intersection</query>
-				<results>
-					<result rank="1">
-						<url>https://stackoverflow.com/questions/8882097/how-to-calculate-the-intersection-of-two-sets?r=SearchResults</url>
-						<postid>8882097</postid>
-						<title>Q: How to calculate the intersection of two sets? [duplicate]</title>
-					</result>
-					<result rank="2">
-						<url>https://stackoverflow.com/questions/13180488/intersection-of-java-util-map?r=SearchResults</url>
-						<postid>13180488</postid>
-						<title>Q: Intersection of java.util.Map</title>
-					</result>
-					<result rank="3">
-						<url>https://stackoverflow.com/questions/4349369/list-intersection-in-java?r=SearchResults</url>
-						<postid>4349369</postid>
-						<title>Q: List intersection in java</title>
-					</result>
-					<result rank="4">
-						<url>https://stackoverflow.com/questions/33779366/finding-intersection?r=SearchResults</url>
-						<postid>33779366</postid>
-						<title>Q: Finding intersection</title>
-					</result>
-					<result rank="5">
-						<url>https://stackoverflow.com/questions/2400838/efficient-intersection-of-two-liststring-in-java?r=SearchResults</url>
-						<postid>2400838</postid>
-						<title>Q: Efficient intersection of two List&lt;String&gt; in Java?</title>
-					</result>
-					<result rank="6">
-						<url>https://stackoverflow.com/questions/43354567/java-package-com-google-common-collect-range-localdate-intersection-returns-a?r=SearchResults</url>
-						<postid>43354567</postid>
-						<title>Q: java package com.google.common.collect.Range&lt; LocalDate &gt; intersection returns a wrong inter…</title>
-					</result>
-					<result rank="7">
-						<url>https://stackoverflow.com/questions/29854085/line-segments-intersectionintersection-point?r=SearchResults</url>
-						<postid>29854085</postid>
-						<title>Q: Line Segments Intersection(intersection Point)</title>
-					</result>
-					<result rank="8">
-						<url>https://stackoverflow.com/questions/17863319/java-find-intersection-of-two-arrays?r=SearchResults</url>
-						<postid>17863319</postid>
-						<title>Q: Java, find intersection of two arrays</title>
-					</result>
-					<result rank="9">
-						<url>https://stackoverflow.com/questions/23918737/sphere-sphere-intersection-and-circle-sphere-intersection?r=SearchResults</url>
-						<postid>23918737</postid>
-						<title>Q: Sphere-Sphere intersection and Circle-Sphere intersection</title>
-					</result>
-					<result rank="10">
-						<url>https://stackoverflow.com/questions/15633994/improving-intersection-algorithm?r=SearchResults</url>
-						<postid>15633994</postid>
-						<title>Q: Improving Intersection Algorithm</title>
-					</result>
-				</results>
-				<clicked/>
-			</iteration>
-			<iteration num="2" starttime="659.5779">
-				<query>[Java]  compute intersection of two sets</query>
-				<results>
-					<result rank="1">
-						<url>https://stackoverflow.com/questions/7574311/efficiently-compute-intersection-of-two-sets-in-java?r=SearchResults</url>
-						<postid>7574311</postid>
-						<title>Q: Efficiently compute Intersection of two Sets in Java?</title>
-					</result>
-					<result rank="2">
-						<url>https://stackoverflow.com/questions/42542838/why-is-retainall-not-accurately-computing-the-intersection-of-two-sets?r=SearchResults</url>
-						<postid>42542838</postid>
-						<title>Q: Why is retainAll not accurately computing the intersection of two sets?</title>
-					</result>
-					<result rank="3">
-						<url>https://stackoverflow.com/questions/55571912/how-to-nicely-intersect-two-sets-build-from-two-maps?r=SearchResults</url>
-						<postid>55571912</postid>
-						<title>Q: How to nicely intersect two sets build from two maps?</title>
-					</result>
-					<result rank="4">
-						<url>https://stackoverflow.com/questions/18364412/generate-point-based-on-intersection-of-two-line-beyond-canvas-limit?r=SearchResults</url>
-						<postid>18364412</postid>
-						<title>Q: Generate point based on intersection of two line beyond canvas limit</title>
-					</result>
-					<result rank="5">
-						<url>https://stackoverflow.com/questions/6469171/computing-set-intersection-and-set-difference-of-the-records-of-two-files-with-h?r=SearchResults</url>
-						<postid>6469171</postid>
-						<title>Q: Computing set intersection and set difference of the records of two files with hadoop</title>
-					</result>
-					<result rank="6">
-						<url>https://stackoverflow.com/questions/43937966/is-there-an-array-intersect-equivalent-in-java/43938036?r=SearchResults#43938036</url>
-						<postid>43938036</postid>
-						<title>A: Is there an array_intersect() equivalent in java?</title>
-					</result>
-					<result rank="7">
-						<url>https://stackoverflow.com/questions/5005829/tools-to-find-code-coverage-intersections/6351758?r=SearchResults#6351758</url>
-						<postid>6351758</postid>
-						<title>A: Tools to find code coverage intersections?</title>
-					</result>
-					<result rank="8">
-						<url>https://stackoverflow.com/questions/21828805/string-matching-operation/21829589?r=SearchResults#21829589</url>
-						<postid>21829589</postid>
-						<title>A: String matching operation</title>
-					</result>
-					<result rank="9">
-						<url>https://stackoverflow.com/questions/20957314/efficient-intersection-and-union-of-lists-of-strings?r=SearchResults</url>
-						<postid>20957314</postid>
-						<title>Q: Efficient Intersection and Union of Lists of Strings</title>
-					</result>
-					<result rank="10">
-						<url>https://stackoverflow.com/questions/52937323/interview-question-query-which-sentences-contain-all-of-the-words-of-a-phrase/52938035?r=SearchResults#52938035</url>
-						<postid>52938035</postid>
-						<title>A: Interview Question: Query - which sentences contain all of the words of a phrase</title>
-					</result>
-				</results>
-				<clicked>
-					<click num="1">
-						<rank>1</rank>
-						<starttime>666.6494</starttime>
-						<endtime>681.4826</endtime>
-					</click>
-				</clicked>
-			</iteration>
-		</session>
-		<session num="8" starttime="0">
-			<iteration num="1" starttime="685.2378">
-				<query>[Java] Lock</query>
-				<results>
-					<result rank="1">
-						<url>https://stackoverflow.com/questions/4201713/synchronization-vs-lock?r=SearchResults</url>
-						<postid>4201713</postid>
-						<title>Q: Synchronization vs Lock</title>
-					</result>
-					<result rank="2">
-						<url>https://stackoverflow.com/questions/3047564/java-synchronized-method-lock-on-object-or-method?r=SearchResults</url>
-						<postid>3047564</postid>
-						<title>Q: Java synchronized method lock on object, or method?</title>
-					</result>
-					<result rank="3">
-						<url>https://stackoverflow.com/questions/11821801/why-use-a-reentrantlock-if-one-can-use-synchronizedthis?r=SearchResults</url>
-						<postid>11821801</postid>
-						<title>Q: Why use a ReentrantLock if one can use synchronized(this)?</title>
-					</result>
-					<result rank="4">
-						<url>https://stackoverflow.com/questions/442564/avoid-synchronizedthis-in-java?r=SearchResults</url>
-						<postid>442564</postid>
-						<title>Q: Avoid synchronized(this) in Java?</title>
-					</result>
-					<result rank="5">
-						<url>https://stackoverflow.com/questions/437620/java-synchronized-static-methods-lock-on-object-or-class?r=SearchResults</url>
-						<postid>437620</postid>
-						<title>Q: Java synchronized static methods: lock on object or class</title>
-					</result>
-					<result rank="6">
-						<url>https://stackoverflow.com/questions/1059580/distributed-lock-service?r=SearchResults</url>
-						<postid>1059580</postid>
-						<title>Q: Distributed Lock Service [closed]</title>
-					</result>
-					<result rank="7">
-						<url>https://stackoverflow.com/questions/464784/java-reentrantreadwritelocks-how-to-safely-acquire-write-lock?r=SearchResults</url>
-						<postid>464784</postid>
-						<title>Q: Java ReentrantReadWriteLocks - how to safely acquire write lock?</title>
-					</result>
-					<result rank="8">
-						<url>https://stackoverflow.com/questions/19840594/private-lock-object-and-intrinsic-lock?r=SearchResults</url>
-						<postid>19840594</postid>
-						<title>Q: private lock object and intrinsic lock</title>
-					</result>
-					<result rank="9">
-						<url>https://stackoverflow.com/questions/8354758/designing-a-key-based-lock-or-lock-map?r=SearchResults</url>
-						<postid>8354758</postid>
-						<title>Q: Designing a key based lock (or lock map)</title>
-					</result>
-					<result rank="10">
-						<url>https://stackoverflow.com/questions/32774399/why-lock-condition-await-must-hold-the-lock?r=SearchResults</url>
-						<postid>32774399</postid>
-						<title>Q: Why Lock condition await must hold the lock</title>
-					</result>
-				</results>
-				<clicked/>
-			</iteration>
-			<iteration num="2" starttime="688.416">
-				<query>[Java]  synchronization</query>
-				<results>
-					<result rank="1">
-						<url>https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable/40878?r=SearchResults#40878</url>
-						<postid>40878</postid>
-						<title>A: Differences between HashMap and Hashtable?</title>
-					</result>
-					<result rank="2">
-						<url>https://stackoverflow.com/questions/1085709/what-does-synchronized-mean?r=SearchResults</url>
-						<postid>1085709</postid>
-						<title>Q: What does 'synchronized' mean?</title>
-					</result>
-					<result rank="3">
-						<url>https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer/355092?r=SearchResults#355092</url>
-						<postid>355092</postid>
-						<title>A: Difference between StringBuilder and StringBuffer</title>
-					</result>
-					<result rank="4">
-						<url>https://stackoverflow.com/questions/442564/avoid-synchronizedthis-in-java?r=SearchResults</url>
-						<postid>442564</postid>
-						<title>Q: Avoid synchronized(this) in Java?</title>
-					</result>
-					<result rank="5">
-						<url>https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries/2707195?r=SearchResults#2707195</url>
-						<postid>2707195</postid>
-						<title>A: Examples of GoF Design Patterns in Java's core libraries</title>
-					</result>
-					<result rank="6">
-						<url>https://stackoverflow.com/questions/11165852/java-singleton-and-synchronization?r=SearchResults</url>
-						<postid>11165852</postid>
-						<title>Q: Java Singleton and Synchronization</title>
-					</result>
-					<result rank="7">
-						<url>https://stackoverflow.com/questions/574240/is-there-an-advantage-to-use-a-synchronized-method-instead-of-a-synchronized-blo?r=SearchResults</url>
-						<postid>574240</postid>
-						<title>Q: Is there an advantage to use a Synchronized Method instead of a Synchronized Block?</title>
-					</result>
-					<result rank="8">
-						<url>https://stackoverflow.com/questions/4201713/synchronization-vs-lock?r=SearchResults</url>
-						<postid>4201713</postid>
-						<title>Q: Synchronization vs Lock</title>
-					</result>
-					<result rank="9">
-						<url>https://stackoverflow.com/questions/541194/c-sharp-version-of-javas-synchronized-keyword?r=SearchResults</url>
-						<postid>541194</postid>
-						<title>Q: C# version of java's synchronized keyword?</title>
-					</result>
-					<result rank="10">
-						<url>https://stackoverflow.com/questions/10982941/java-synchronization-not-working-as-expected?r=SearchResults</url>
-						<postid>10982941</postid>
-						<title>Q: Java Synchronization Not Working as Expected</title>
-					</result>
-				</results>
-				<clicked/>
-			</iteration>
-		</session>
-		<session num="9" starttime="0">
-			<iteration num="1" starttime="692.1895">
+			<iteration num="1" starttime="5.3586">
 				<query>apply operations list[java]</query>
 				<results>
 					<result rank="1">
@@ -1280,7 +1046,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="696.3794">
+			<iteration num="2" starttime="8.4321">
 				<query>[java] apply operations list map</query>
 				<results>
 					<result rank="1">
@@ -1337,14 +1103,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>705.3763</starttime>
-						<endtime>709.0036</endtime>
+						<starttime>12.2487</starttime>
+						<endtime>131.7432</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="10" starttime="0">
-			<iteration num="1" starttime="713.1563">
+		<session num="8" starttime="0">
+			<iteration num="1" starttime="5.4553">
 				<query>[java] what is the difference between int and integer</query>
 				<results>
 					<result rank="1">
@@ -1401,17 +1167,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>713.1721</starttime>
-						<endtime>713.4642</endtime>
+						<starttime>10.2094</starttime>
+						<endtime>57.3574</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>714.1203</starttime>
-						<endtime>738.2113</endtime>
+						<starttime>59.7135</starttime>
+						<endtime>67.155</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="741.5393">
+			<iteration num="2" starttime="71.3952">
 				<query>[java] Integer.parseInt(&quot;1&quot;)</query>
 				<results>
 					<result rank="1">
@@ -1468,14 +1234,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>742.267</starttime>
-						<endtime>780.7852</endtime>
+						<starttime>74.812</starttime>
+						<endtime>170.0088</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="11" starttime="0">
-			<iteration num="1" starttime="784.7384">
+		<session num="9" starttime="0">
+			<iteration num="1" starttime="4.5476">
 				<query>[java] load file</query>
 				<results>
 					<result rank="1">
@@ -1532,12 +1298,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>789.1419</starttime>
-						<endtime>821.9962</endtime>
+						<starttime>6.2252</starttime>
+						<endtime>37.191</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="825.1118">
+			<iteration num="2" starttime="40.8943">
 				<query>[java] read a file</query>
 				<results>
 					<result rank="1">
@@ -1594,27 +1360,27 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>831.5599</starttime>
-						<endtime>835.9767</endtime>
+						<starttime>42.0559</starttime>
+						<endtime>90.6789</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>837.5458</starttime>
-						<endtime>846.1145</endtime>
+						<starttime>91.3083</starttime>
+						<endtime>142.1937</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>854.4369</starttime>
-						<endtime>870.5305</endtime>
+						<starttime>144.8353</starttime>
+						<endtime>199.3785</endtime>
 					</click>
 					<click num="4">
 						<rank>5</rank>
-						<starttime>877.2035</starttime>
-						<endtime>885.2143</endtime>
+						<starttime>199.9953</starttime>
+						<endtime>225.8457</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="889.0191">
+			<iteration num="3" starttime="230.3538">
 				<query>[java] Files.readAllLines</query>
 				<results>
 					<result rank="1">
@@ -1671,14 +1437,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>891.2962</starttime>
-						<endtime>919.7069</endtime>
+						<starttime>232.8157</starttime>
+						<endtime>313.5533</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="12" starttime="0">
-			<iteration num="1" starttime="923.6901">
+		<session num="10" starttime="0">
+			<iteration num="1" starttime="4.1093">
 				<query>[java] write a file</query>
 				<results>
 					<result rank="1">
@@ -1735,17 +1501,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>931.3551</starttime>
-						<endtime>962.3281</endtime>
+						<starttime>8.2735</starttime>
+						<endtime>56.7446</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>964.7929</starttime>
-						<endtime>968.5333</endtime>
+						<starttime>59.785</starttime>
+						<endtime>96.5653</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="972.0164">
+			<iteration num="2" starttime="100.0051">
 				<query>[java] write a file java8</query>
 				<results>
 					<result rank="1">
@@ -1802,12 +1568,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>981.3298</starttime>
-						<endtime>996.0478</endtime>
+						<starttime>105.6313</starttime>
+						<endtime>117.5446</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="999.9448">
+			<iteration num="3" starttime="122.4419">
 				<query>[java] write a file java 8</query>
 				<results>
 					<result rank="1">
@@ -1863,7 +1629,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="1003.7075">
+			<iteration num="4" starttime="126.1446">
 				<query>[java] write text file</query>
 				<results>
 					<result rank="1">
@@ -1920,22 +1686,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1004.4664</starttime>
-						<endtime>1013.6713</endtime>
+						<starttime>128.9369</starttime>
+						<endtime>222.3934</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>1013.7479</starttime>
-						<endtime>1061.1692</endtime>
+						<starttime>232.1318</starttime>
+						<endtime>266.0528</endtime>
 					</click>
 					<click num="3">
 						<rank>6</rank>
-						<starttime>1061.8704</starttime>
-						<endtime>1064.1152</endtime>
+						<starttime>270.5714</starttime>
+						<endtime>294.095</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="5" starttime="1068.0486">
+			<iteration num="5" starttime="298.9765">
 				<query>[java] Files.write</query>
 				<results>
 					<result rank="1">
@@ -1992,19 +1758,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1070.3332</starttime>
-						<endtime>1100.4872</endtime>
+						<starttime>307.1839</starttime>
+						<endtime>310.2574</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>1108.0678</starttime>
-						<endtime>1206.5778</endtime>
+						<starttime>317.391</starttime>
+						<endtime>367.8569</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="13" starttime="0">
-			<iteration num="1" starttime="1210.2701">
+		<session num="11" starttime="0">
+			<iteration num="1" starttime="5.6236">
 				<query>[java] download file</query>
 				<results>
 					<result rank="1">
@@ -2061,17 +1827,17 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>1216.7609</starttime>
-						<endtime>1253.0501</endtime>
+						<starttime>14.7325</starttime>
+						<endtime>44.5457</endtime>
 					</click>
 					<click num="2">
 						<rank>8</rank>
-						<starttime>1262.1585</starttime>
-						<endtime>1274.011</endtime>
+						<starttime>44.6479</starttime>
+						<endtime>98.8003</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="1278.8272">
+			<iteration num="2" starttime="103.4668">
 				<query>[java]  URL</query>
 				<results>
 					<result rank="1">
@@ -2128,14 +1894,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>1279.3064</starttime>
-						<endtime>1304.1833</endtime>
+						<starttime>105.4268</starttime>
+						<endtime>220.9092</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="14" starttime="0">
-			<iteration num="1" starttime="1309.0262">
+		<session num="12" starttime="0">
+			<iteration num="1" starttime="4.0426">
 				<query>[java] trash collect</query>
 				<results>
 					<result rank="1">
@@ -2191,7 +1957,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="1312.6546">
+			<iteration num="2" starttime="8.3094">
 				<query>[java] clean memory</query>
 				<results>
 					<result rank="1">
@@ -2248,22 +2014,22 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>1316.2916</starttime>
-						<endtime>1342.5228</endtime>
+						<starttime>14.6933</starttime>
+						<endtime>38.3168</endtime>
 					</click>
 					<click num="2">
 						<rank>1</rank>
-						<starttime>1352.186</starttime>
-						<endtime>1372.9724</endtime>
+						<starttime>45.9176</starttime>
+						<endtime>65.8965</endtime>
 					</click>
 					<click num="3">
 						<rank>6</rank>
-						<starttime>1381.8293</starttime>
-						<endtime>1433.4143</endtime>
+						<starttime>70.0704</starttime>
+						<endtime>77.0853</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="1438.1145">
+			<iteration num="3" starttime="81.0906">
 				<query>[java]  force garbage collection</query>
 				<results>
 					<result rank="1">
@@ -2320,24 +2086,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1447.4196</starttime>
-						<endtime>1448.654</endtime>
+						<starttime>87.7908</starttime>
+						<endtime>90.2245</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>1449.8576</starttime>
-						<endtime>1459.6347</endtime>
+						<starttime>92.5496</starttime>
+						<endtime>129.4651</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>1466.6561</starttime>
-						<endtime>1477.0072</endtime>
+						<starttime>133.3089</starttime>
+						<endtime>204.1985</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="15" starttime="0">
-			<iteration num="1" starttime="1480.9688">
+		<session num="13" starttime="0">
+			<iteration num="1" starttime="5.2476">
 				<query>[java]  Date day between</query>
 				<results>
 					<result rank="1">
@@ -2394,17 +2160,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1489.4632</starttime>
-						<endtime>1511.2483</endtime>
+						<starttime>5.792</starttime>
+						<endtime>47.4531</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>1512.0569</starttime>
-						<endtime>1542.3348</endtime>
+						<starttime>56.8665</starttime>
+						<endtime>98.1827</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="1546.0813">
+			<iteration num="2" starttime="102.9329">
 				<query>[java]  calculate difference between date</query>
 				<results>
 					<result rank="1">
@@ -2461,14 +2227,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1550.8919</starttime>
-						<endtime>1560.5674</endtime>
+						<starttime>108.6691</starttime>
+						<endtime>187.1567</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="16" starttime="0">
-			<iteration num="1" starttime="1564.4514">
+		<session num="14" starttime="0">
+			<iteration num="1" starttime="4.4631">
 				<query>[java]  Traverse map</query>
 				<results>
 					<result rank="1">
@@ -2525,17 +2291,17 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>1572.4214</starttime>
-						<endtime>1601.1754</endtime>
+						<starttime>6.0965</starttime>
+						<endtime>27.566</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>1604.2999</starttime>
-						<endtime>1659.2774</endtime>
+						<starttime>34.5639</starttime>
+						<endtime>66.7488</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="1663.8612">
+			<iteration num="2" starttime="70.4106">
 				<query>[java]  iterate visit map</query>
 				<results>
 					<result rank="1">
@@ -2592,17 +2358,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>1670.0152</starttime>
-						<endtime>1710.5169</endtime>
+						<starttime>72.7785</starttime>
+						<endtime>91.705</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>1716.3095</starttime>
-						<endtime>1723.7054</endtime>
+						<starttime>94.2999</starttime>
+						<endtime>119.831</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="1727.9268">
+			<iteration num="3" starttime="123.7435">
 				<query>[java]  iterate map</query>
 				<results>
 					<result rank="1">
@@ -2659,24 +2425,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1733.6602</starttime>
-						<endtime>1741.8863</endtime>
+						<starttime>130.9802</starttime>
+						<endtime>181.1693</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>1748.3292</starttime>
-						<endtime>1758.0391</endtime>
+						<starttime>184.9471</starttime>
+						<endtime>233.5136</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>1760.4205</starttime>
-						<endtime>1818.9397</endtime>
+						<starttime>235.4418</starttime>
+						<endtime>237.0946</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="17" starttime="0">
-			<iteration num="1" starttime="1822.0021">
+		<session num="15" starttime="0">
+			<iteration num="1" starttime="4.7954">
 				<query>[java]  list remove duplicate item</query>
 				<results>
 					<result rank="1">
@@ -2732,7 +2498,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="1826.8631">
+			<iteration num="2" starttime="9.6377">
 				<query>[java]  list remove duplicate</query>
 				<results>
 					<result rank="1">
@@ -2789,12 +2555,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>1828.6499</starttime>
-						<endtime>1849.1541</endtime>
+						<starttime>11.3409</starttime>
+						<endtime>16.9815</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="1853.3175">
+			<iteration num="3" starttime="20.8673">
 				<query>[java]  remove duplicates from list</query>
 				<results>
 					<result rank="1">
@@ -2851,14 +2617,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>1859.1513</starttime>
-						<endtime>1904.6806</endtime>
+						<starttime>30.3485</starttime>
+						<endtime>78.5191</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="18" starttime="0">
-			<iteration num="1" starttime="1909.6369">
+		<session num="16" starttime="0">
+			<iteration num="1" starttime="5.5385">
 				<query>[java]how to convert date to string in java</query>
 				<results>
 					<result rank="1">
@@ -2915,12 +2681,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>1912.6795</starttime>
-						<endtime>1941.8642</endtime>
+						<starttime>13.7327</starttime>
+						<endtime>24.811</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="1945.5926">
+			<iteration num="2" starttime="28.6899">
 				<query>[java]how to use SimpleDateFormat in java</query>
 				<results>
 					<result rank="1">
@@ -2977,12 +2743,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>1946.7513</starttime>
-						<endtime>1967.7209</endtime>
+						<starttime>37.24</starttime>
+						<endtime>39.5991</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="1972.1533">
+			<iteration num="3" starttime="43.9273">
 				<query>[java]how to use DateFormat in java</query>
 				<results>
 					<result rank="1">
@@ -3039,12 +2805,12 @@
 				<clicked>
 					<click num="1">
 						<rank>7</rank>
-						<starttime>1972.6997</starttime>
-						<endtime>2015.3687</endtime>
+						<starttime>50.4651</starttime>
+						<endtime>55.0125</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="2020.3494">
+			<iteration num="4" starttime="59.946">
 				<query>[java]how to convert string to date in java</query>
 				<results>
 					<result rank="1">
@@ -3101,12 +2867,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>2028.7208</starttime>
-						<endtime>2078.2341</endtime>
+						<starttime>64.5066</starttime>
+						<endtime>80.3143</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="5" starttime="2083.182">
+			<iteration num="5" starttime="84.9366">
 				<query>[java]how to convert string to sql date in java</query>
 				<results>
 					<result rank="1">
@@ -3163,17 +2929,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2088.5478</starttime>
-						<endtime>2189.3565</endtime>
+						<starttime>93.6932</starttime>
+						<endtime>100.6776</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>2189.6096</starttime>
-						<endtime>2213.8849</endtime>
+						<starttime>102.3583</starttime>
+						<endtime>150.5751</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="6" starttime="2218.1658">
+			<iteration num="6" starttime="154.6832">
 				<query>[java]how to use calendar in java</query>
 				<results>
 					<result rank="1">
@@ -3230,14 +2996,14 @@
 				<clicked>
 					<click num="1">
 						<rank>6</rank>
-						<starttime>2226.2579</starttime>
-						<endtime>2251.2175</endtime>
+						<starttime>159.3271</starttime>
+						<endtime>160.7843</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="19" starttime="0">
-			<iteration num="1" starttime="2254.4626">
+		<session num="17" starttime="0">
+			<iteration num="1" starttime="4.9605">
 				<query>[java]  get ip</query>
 				<results>
 					<result rank="1">
@@ -3294,17 +3060,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2255.574</starttime>
-						<endtime>2292.5407</endtime>
+						<starttime>11.4732</starttime>
+						<endtime>46.0005</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>2302.2835</starttime>
-						<endtime>2332.5903</endtime>
+						<starttime>54.2138</starttime>
+						<endtime>97.4381</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="2336.6549">
+			<iteration num="2" starttime="101.7361">
 				<query>[java]  InetAddress.getLocalHost</query>
 				<results>
 					<result rank="1">
@@ -3361,14 +3127,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2341.94</starttime>
-						<endtime>2367.2063</endtime>
+						<starttime>106.591</starttime>
+						<endtime>142.322</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="20" starttime="0">
-			<iteration num="1" starttime="2370.8313">
+		<session num="18" starttime="0">
+			<iteration num="1" starttime="5.0462">
 				<query>[java]  get id not repeat</query>
 				<results>
 					<result rank="1">
@@ -3425,12 +3191,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>2372.989</starttime>
-						<endtime>2417.9212</endtime>
+						<starttime>5.9874</starttime>
+						<endtime>92.6303</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="2422.4505">
+			<iteration num="2" starttime="95.6915">
 				<query>[java]  get unique id</query>
 				<results>
 					<result rank="1">
@@ -3487,22 +3253,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2431.3913</starttime>
-						<endtime>2486.3237</endtime>
+						<starttime>95.9766</starttime>
+						<endtime>120.7947</endtime>
 					</click>
 					<click num="2">
 						<rank>6</rank>
-						<starttime>2491.7388</starttime>
-						<endtime>2528.388</endtime>
+						<starttime>126.7953</starttime>
+						<endtime>144.7815</endtime>
 					</click>
 					<click num="3">
 						<rank>8</rank>
-						<starttime>2537.2072</starttime>
-						<endtime>2595.6475</endtime>
+						<starttime>149.0082</starttime>
+						<endtime>151.3262</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="2599.5161">
+			<iteration num="3" starttime="156.293">
 				<query>[java] uuid</query>
 				<results>
 					<result rank="1">
@@ -3559,24 +3325,24 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>2600.1166</starttime>
-						<endtime>2632.6085</endtime>
+						<starttime>161.9482</starttime>
+						<endtime>173.015</endtime>
 					</click>
 					<click num="2">
 						<rank>1</rank>
-						<starttime>2640.2161</starttime>
-						<endtime>2696.2538</endtime>
+						<starttime>180.3793</starttime>
+						<endtime>196.3401</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>2696.5528</starttime>
-						<endtime>2702.8695</endtime>
+						<starttime>201.4737</starttime>
+						<endtime>223.6426</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="21" starttime="0">
-			<iteration num="1" starttime="2706.5566">
+		<session num="19" starttime="0">
+			<iteration num="1" starttime="5.8415">
 				<query>[java] remove duplicated list</query>
 				<results>
 					<result rank="1">
@@ -3633,27 +3399,27 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2711.6535</starttime>
-						<endtime>2752.562</endtime>
+						<starttime>10.2289</starttime>
+						<endtime>56.6156</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>2755.2291</starttime>
-						<endtime>2759.8704</endtime>
+						<starttime>62.9153</starttime>
+						<endtime>162.5365</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>2766.5408</starttime>
-						<endtime>2771.4602</endtime>
+						<starttime>170.4634</starttime>
+						<endtime>229.1624</endtime>
 					</click>
 					<click num="4">
 						<rank>5</rank>
-						<starttime>2780.6697</starttime>
-						<endtime>2799.6176</endtime>
+						<starttime>233.0733</starttime>
+						<endtime>234.774</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="2803.4472">
+			<iteration num="2" starttime="238.9343">
 				<query>[java] convert list to set</query>
 				<results>
 					<result rank="1">
@@ -3710,17 +3476,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2812.59</starttime>
-						<endtime>2857.4121</endtime>
+						<starttime>246.9415</starttime>
+						<endtime>294.6417</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>2863.3586</starttime>
-						<endtime>2910.7212</endtime>
+						<starttime>295.6166</starttime>
+						<endtime>304.1322</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="2914.056">
+			<iteration num="3" starttime="307.7185">
 				<query>[java] convert set to list</query>
 				<results>
 					<result rank="1">
@@ -3777,19 +3543,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>2921.984</starttime>
-						<endtime>2923.8416</endtime>
+						<starttime>313.5791</starttime>
+						<endtime>357.9838</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>2928.64</starttime>
-						<endtime>2962.7881</endtime>
+						<starttime>359.9427</starttime>
+						<endtime>371.8545</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="22" starttime="0">
-			<iteration num="1" starttime="2967.1224">
+		<session num="20" starttime="0">
+			<iteration num="1" starttime="4.6433">
 				<query>[java] compare two date</query>
 				<results>
 					<result rank="1">
@@ -3846,17 +3612,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>2973.622</starttime>
-						<endtime>3027.329</endtime>
+						<starttime>12.5284</starttime>
+						<endtime>26.5616</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>3031.345</starttime>
-						<endtime>3059.0742</endtime>
+						<starttime>27.2097</starttime>
+						<endtime>46.8866</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="3062.5158">
+			<iteration num="2" starttime="50.8699">
 				<query>[java] compare dates</query>
 				<results>
 					<result rank="1">
@@ -3913,14 +3679,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>3062.6414</starttime>
-						<endtime>3072.1207</endtime>
+						<starttime>60.4615</starttime>
+						<endtime>108.7447</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="23" starttime="0">
-			<iteration num="1" starttime="3075.3112">
+		<session num="21" starttime="0">
+			<iteration num="1" starttime="4.9031">
 				<query>[java]binary search tree</query>
 				<results>
 					<result rank="1">
@@ -3977,17 +3743,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3084.9648</starttime>
-						<endtime>3137.1273</endtime>
+						<starttime>12.0998</starttime>
+						<endtime>62.5698</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>3140.6612</starttime>
-						<endtime>3172.7554</endtime>
+						<starttime>62.7167</starttime>
+						<endtime>69.2371</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="3177.6858">
+			<iteration num="2" starttime="73.1815">
 				<query>[java] treemap</query>
 				<results>
 					<result rank="1">
@@ -4044,14 +3810,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3181.817</starttime>
-						<endtime>3200.8621</endtime>
+						<starttime>81.072</starttime>
+						<endtime>106.9997</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="24" starttime="0">
-			<iteration num="1" starttime="3203.8843">
+		<session num="22" starttime="0">
+			<iteration num="1" starttime="4.4497">
 				<query>[java] add text to file</query>
 				<results>
 					<result rank="1">
@@ -4108,17 +3874,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3208.5149</starttime>
-						<endtime>3261.5414</endtime>
+						<starttime>10.6599</starttime>
+						<endtime>56.9954</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>3270.2175</starttime>
-						<endtime>3307.0756</endtime>
+						<starttime>66.8891</starttime>
+						<endtime>94.4017</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="3311.0207">
+			<iteration num="2" starttime="98.9254">
 				<query>[java] append to file</query>
 				<results>
 					<result rank="1">
@@ -4175,14 +3941,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>3318.8961</starttime>
-						<endtime>3353.3605</endtime>
+						<starttime>99.8315</starttime>
+						<endtime>148.7007</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="25" starttime="0">
-			<iteration num="1" starttime="3357.8653">
+		<session num="23" starttime="0">
+			<iteration num="1" starttime="4.6286">
 				<query>[java]get terminal input</query>
 				<results>
 					<result rank="1">
@@ -4239,17 +4005,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>3364.5937</starttime>
-						<endtime>3388.4271</endtime>
+						<starttime>5.7055</starttime>
+						<endtime>19.4889</endtime>
 					</click>
 					<click num="2">
 						<rank>8</rank>
-						<starttime>3396.2606</starttime>
-						<endtime>3447.4569</endtime>
+						<starttime>19.5355</starttime>
+						<endtime>78.2913</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="3452.2312">
+			<iteration num="2" starttime="82.5156">
 				<query>[java] get input scanner</query>
 				<results>
 					<result rank="1">
@@ -4306,22 +4072,22 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>3454.9432</starttime>
-						<endtime>3475.3533</endtime>
+						<starttime>90.8093</starttime>
+						<endtime>135.5434</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>3483.3647</starttime>
-						<endtime>3519.6736</endtime>
+						<starttime>137.8312</starttime>
+						<endtime>139.0801</endtime>
 					</click>
 					<click num="3">
 						<rank>8</rank>
-						<starttime>3521.7389</starttime>
-						<endtime>3535.8143</endtime>
+						<starttime>141.0625</starttime>
+						<endtime>161.7071</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="3539.8664">
+			<iteration num="3" starttime="165.9674">
 				<query>[java] System.console()</query>
 				<results>
 					<result rank="1">
@@ -4378,14 +4144,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3545.2001</starttime>
-						<endtime>3563.4845</endtime>
+						<starttime>170.0635</starttime>
+						<endtime>186.3254</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="26" starttime="0">
-			<iteration num="1" starttime="3567.9875">
+		<session num="24" starttime="0">
+			<iteration num="1" starttime="4.7545">
 				<query>[java] split string by comma</query>
 				<results>
 					<result rank="1">
@@ -4442,32 +4208,32 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3575.7919</starttime>
-						<endtime>3596.8988</endtime>
+						<starttime>13.8881</starttime>
+						<endtime>39.5338</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>3601.2265</starttime>
-						<endtime>3603.4436</endtime>
+						<starttime>42.5547</starttime>
+						<endtime>53.0988</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>3611.4439</starttime>
-						<endtime>3669.8711</endtime>
+						<starttime>62.7255</starttime>
+						<endtime>74.047</endtime>
 					</click>
 					<click num="4">
 						<rank>4</rank>
-						<starttime>3673.6315</starttime>
-						<endtime>3716.2132</endtime>
+						<starttime>78.8214</starttime>
+						<endtime>171.9486</endtime>
 					</click>
 					<click num="5">
 						<rank>8</rank>
-						<starttime>3717.2492</starttime>
-						<endtime>3745.1125</endtime>
+						<starttime>175.2312</starttime>
+						<endtime>226.8463</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="3748.3107">
+			<iteration num="2" starttime="231.0202">
 				<query>[java] split string</query>
 				<results>
 					<result rank="1">
@@ -4524,19 +4290,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3755.9861</starttime>
-						<endtime>3759.3143</endtime>
+						<starttime>235.1147</starttime>
+						<endtime>237.6321</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>3762.7039</starttime>
-						<endtime>3822.6482</endtime>
+						<starttime>247.0775</starttime>
+						<endtime>289.3027</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="27" starttime="0">
-			<iteration num="1" starttime="3826.0975">
+		<session num="25" starttime="0">
+			<iteration num="1" starttime="4.6739">
 				<query>[java] get max n number of list</query>
 				<results>
 					<result rank="1">
@@ -4593,12 +4359,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3834.5277</starttime>
-						<endtime>3865.5443</endtime>
+						<starttime>4.7445</starttime>
+						<endtime>12.3278</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="3868.9367">
+			<iteration num="2" starttime="17.1846">
 				<query>[java] get max n of list</query>
 				<results>
 					<result rank="1">
@@ -4655,22 +4421,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>3876.3494</starttime>
-						<endtime>3962.4449</endtime>
+						<starttime>18.8664</starttime>
+						<endtime>56.0281</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>3970.534</starttime>
-						<endtime>4019.2357</endtime>
+						<starttime>61.6768</starttime>
+						<endtime>110.8224</endtime>
 					</click>
 					<click num="3">
 						<rank>8</rank>
-						<starttime>4028.5683</starttime>
-						<endtime>4054.6657</endtime>
+						<starttime>120.1834</starttime>
+						<endtime>170.9804</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="4059.5004">
+			<iteration num="3" starttime="174.3115">
 				<query>[java] PriorityQueue</query>
 				<results>
 					<result rank="1">
@@ -4727,19 +4493,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4061.0933</starttime>
-						<endtime>4075.5901</endtime>
+						<starttime>181.9593</starttime>
+						<endtime>281.4226</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>4080.373</starttime>
-						<endtime>4089.1455</endtime>
+						<starttime>287.0101</starttime>
+						<endtime>288.0515</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="28" starttime="0">
-			<iteration num="1" starttime="4093.3673">
+		<session num="26" starttime="0">
+			<iteration num="1" starttime="4.6174">
 				<query>[java] get union of two list</query>
 				<results>
 					<result rank="1">
@@ -4796,17 +4562,17 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>4099.8639</starttime>
-						<endtime>4120.9415</endtime>
+						<starttime>14.1032</starttime>
+						<endtime>15.1356</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>4123.7077</starttime>
-						<endtime>4242.6083</endtime>
+						<starttime>23.4541</starttime>
+						<endtime>65.0091</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="4246.665">
+			<iteration num="2" starttime="68.7782">
 				<query>[java] get union list</query>
 				<results>
 					<result rank="1">
@@ -4863,17 +4629,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>4250.2011</starttime>
-						<endtime>4310.016</endtime>
+						<starttime>73.1465</starttime>
+						<endtime>131.1534</endtime>
 					</click>
 					<click num="2">
 						<rank>9</rank>
-						<starttime>4313.2157</starttime>
-						<endtime>4336.0945</endtime>
+						<starttime>134.0112</starttime>
+						<endtime>146.8998</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="4340.9419">
+			<iteration num="3" starttime="150.4116">
 				<query>[java] union set</query>
 				<results>
 					<result rank="1">
@@ -4930,14 +4696,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4344.9278</starttime>
-						<endtime>4348.2987</endtime>
+						<starttime>151.0734</starttime>
+						<endtime>261.2676</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="29" starttime="0">
-			<iteration num="1" starttime="4351.8232">
+		<session num="27" starttime="0">
+			<iteration num="1" starttime="4.823">
 				<query>[java] compare string</query>
 				<results>
 					<result rank="1">
@@ -4994,12 +4760,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4356.0273</starttime>
-						<endtime>4370.6347</endtime>
+						<starttime>9.3372</starttime>
+						<endtime>59.5714</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="4374.1112">
+			<iteration num="2" starttime="62.6317">
 				<query>[java] .equals() vs ==</query>
 				<results>
 					<result rank="1">
@@ -5056,17 +4822,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>4375.4155</starttime>
-						<endtime>4396.1899</endtime>
+						<starttime>70.2</starttime>
+						<endtime>96.1975</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>4399.6144</starttime>
-						<endtime>4450.321</endtime>
+						<starttime>102.8278</starttime>
+						<endtime>150.5639</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="4454.9196">
+			<iteration num="3" starttime="154.4326">
 				<query>[java] string compareTo</query>
 				<results>
 					<result rank="1">
@@ -5123,14 +4889,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>4458.433</starttime>
-						<endtime>4458.6325</endtime>
+						<starttime>158.1049</starttime>
+						<endtime>162.8789</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="30" starttime="0">
-			<iteration num="1" starttime="4462.0329">
+		<session num="28" starttime="0">
+			<iteration num="1" starttime="4.8115">
 				<query>[java] fill array with a number</query>
 				<results>
 					<result rank="1">
@@ -5187,22 +4953,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4467.4104</starttime>
-						<endtime>4497.5627</endtime>
+						<starttime>8.3964</starttime>
+						<endtime>47.2015</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>4500.2446</starttime>
-						<endtime>4515.0768</endtime>
+						<starttime>50.5719</starttime>
+						<endtime>81.5594</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>4516.0114</starttime>
-						<endtime>4564.2571</endtime>
+						<starttime>87.3402</starttime>
+						<endtime>99.3812</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="4569.0216">
+			<iteration num="2" starttime="104.3111">
 				<query>[java] arrays.fill</query>
 				<results>
 					<result rank="1">
@@ -5259,14 +5025,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4577.9704</starttime>
-						<endtime>4606.6359</endtime>
+						<starttime>109.4726</starttime>
+						<endtime>134.6745</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="31" starttime="0">
-			<iteration num="1" starttime="4611.0838">
+		<session num="29" starttime="0">
+			<iteration num="1" starttime="4.968">
 				<query>[java] create temporary file</query>
 				<results>
 					<result rank="1">
@@ -5323,22 +5089,22 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>4611.3219</starttime>
-						<endtime>4697.8469</endtime>
+						<starttime>12.7951</starttime>
+						<endtime>23.0454</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>4699.1425</starttime>
-						<endtime>4786.5521</endtime>
+						<starttime>24.33</starttime>
+						<endtime>36.3017</endtime>
 					</click>
 					<click num="3">
 						<rank>6</rank>
-						<starttime>4790.5604</starttime>
-						<endtime>4800.6071</endtime>
+						<starttime>41.3817</starttime>
+						<endtime>41.7683</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="4804.3764">
+			<iteration num="2" starttime="44.9623">
 				<query>[java] create a temporary folder</query>
 				<results>
 					<result rank="1">
@@ -5395,12 +5161,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4813.9119</starttime>
-						<endtime>4867.6424</endtime>
+						<starttime>53.9827</starttime>
+						<endtime>171.659</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="4870.7151">
+			<iteration num="3" starttime="175.3712">
 				<query>[java]  File.createTempFile</query>
 				<results>
 					<result rank="1">
@@ -5457,14 +5223,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>4878.6957</starttime>
-						<endtime>4914.4776</endtime>
+						<starttime>177.9271</starttime>
+						<endtime>228.905</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="32" starttime="0">
-			<iteration num="1" starttime="4917.5104">
+		<session num="30" starttime="0">
+			<iteration num="1" starttime="5.5512">
 				<query>[java]  file rename</query>
 				<results>
 					<result rank="1">
@@ -5521,12 +5287,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4923.6488</starttime>
-						<endtime>4976.7959</endtime>
+						<starttime>10.3724</starttime>
+						<endtime>31.303</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="4980.2813">
+			<iteration num="2" starttime="35.8679">
 				<query>[java] Files.move</query>
 				<results>
 					<result rank="1">
@@ -5583,22 +5349,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>4982.4282</starttime>
-						<endtime>5023.8094</endtime>
+						<starttime>45.2947</starttime>
+						<endtime>105.268</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>5027.9103</starttime>
-						<endtime>5032.4178</endtime>
+						<starttime>114.0254</starttime>
+						<endtime>158.9892</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>5032.835</starttime>
-						<endtime>5070.2318</endtime>
+						<starttime>161.852</starttime>
+						<endtime>174.1853</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="5074.2945">
+			<iteration num="3" starttime="178.7657">
 				<query>[java] Files renameTo</query>
 				<results>
 					<result rank="1">
@@ -5655,14 +5421,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5076.8606</starttime>
-						<endtime>5078.0495</endtime>
+						<starttime>180.5998</starttime>
+						<endtime>189.0592</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="33" starttime="0">
-			<iteration num="1" starttime="5082.5412">
+		<session num="31" starttime="0">
+			<iteration num="1" starttime="5.2958">
 				<query>[java] get current work directory</query>
 				<results>
 					<result rank="1">
@@ -5719,12 +5485,12 @@
 				<clicked>
 					<click num="1">
 						<rank>7</rank>
-						<starttime>5089.9487</starttime>
-						<endtime>5118.8044</endtime>
+						<starttime>7.6621</starttime>
+						<endtime>18.9643</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="5122.0099">
+			<iteration num="2" starttime="22.3359">
 				<query>[java] get current path</query>
 				<results>
 					<result rank="1">
@@ -5781,17 +5547,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>5125.3567</starttime>
-						<endtime>5239.9386</endtime>
+						<starttime>24.9855</starttime>
+						<endtime>84.1183</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>5245.3091</starttime>
-						<endtime>5299.8177</endtime>
+						<starttime>85.2787</starttime>
+						<endtime>100.2539</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="5304.3509">
+			<iteration num="3" starttime="104.9909">
 				<query>[java] System.getProperty</query>
 				<results>
 					<result rank="1">
@@ -5848,24 +5614,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5312.3427</starttime>
-						<endtime>5312.5913</endtime>
+						<starttime>105.3869</starttime>
+						<endtime>127.5165</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>5314.6701</starttime>
-						<endtime>5344.4799</endtime>
+						<starttime>131.6051</starttime>
+						<endtime>153.0115</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>5344.937</starttime>
-						<endtime>5355.5753</endtime>
+						<starttime>160.358</starttime>
+						<endtime>164.7369</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="34" starttime="0">
-			<iteration num="1" starttime="5359.2235">
+		<session num="32" starttime="0">
+			<iteration num="1" starttime="5.3088">
 				<query>[java] get all file of a folder</query>
 				<results>
 					<result rank="1">
@@ -5922,12 +5688,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5360.089</starttime>
-						<endtime>5458.5674</endtime>
+						<starttime>8.282</starttime>
+						<endtime>108.3892</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="5462.1769">
+			<iteration num="2" starttime="112.1856">
 				<query>[java]  read all file in a folder</query>
 				<results>
 					<result rank="1">
@@ -5984,19 +5750,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5469.8188</starttime>
-						<endtime>5485.99</endtime>
+						<starttime>121.948</starttime>
+						<endtime>163.0705</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>5489.938</starttime>
-						<endtime>5527.5237</endtime>
+						<starttime>165.0593</starttime>
+						<endtime>173.7772</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="35" starttime="0">
-			<iteration num="1" starttime="5531.1068">
+		<session num="33" starttime="0">
+			<iteration num="1" starttime="5.543">
 				<query>[java]  Priority multithread</query>
 				<results>
 					<result rank="1">
@@ -6053,12 +5819,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5536.1229</starttime>
-						<endtime>5593.844</endtime>
+						<starttime>11.7454</starttime>
+						<endtime>18.0016</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="5598.0533">
+			<iteration num="2" starttime="22.6724">
 				<query>[java]  Priority multi thread</query>
 				<results>
 					<result rank="1">
@@ -6115,12 +5881,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5605.4457</starttime>
-						<endtime>5610.9427</endtime>
+						<starttime>30.7596</starttime>
+						<endtime>69.2394</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="5615.606">
+			<iteration num="3" starttime="72.9579">
 				<query>[java]  Priority to thread</query>
 				<results>
 					<result rank="1">
@@ -6177,17 +5943,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>5616.1612</starttime>
-						<endtime>5671.9248</endtime>
+						<starttime>76.988</starttime>
+						<endtime>132.0303</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>5673.8245</starttime>
-						<endtime>5747.7384</endtime>
+						<starttime>139.2133</starttime>
+						<endtime>157.7166</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="5751.8436">
+			<iteration num="4" starttime="161.014">
 				<query>[java] setting Priority to java's threads</query>
 				<results>
 					<result rank="1">
@@ -6244,14 +6010,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5753.5126</starttime>
-						<endtime>5780.5517</endtime>
+						<starttime>163.207</starttime>
+						<endtime>165.1717</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="36" starttime="0">
-			<iteration num="1" starttime="5784.5492">
+		<session num="34" starttime="0">
+			<iteration num="1" starttime="5.2604">
 				<query>[java] how to lower case</query>
 				<results>
 					<result rank="1">
@@ -6308,12 +6074,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>5794.3909</starttime>
-						<endtime>5823.2116</endtime>
+						<starttime>14.077</starttime>
+						<endtime>16.5468</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="5827.7542">
+			<iteration num="2" starttime="21.4382">
 				<query>[java] string.toLowerCase</query>
 				<results>
 					<result rank="1">
@@ -6370,19 +6136,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5832.5607</starttime>
-						<endtime>5886.4197</endtime>
+						<starttime>31.0442</starttime>
+						<endtime>88.7905</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>5892.4896</starttime>
-						<endtime>5940.1981</endtime>
+						<starttime>94.9867</starttime>
+						<endtime>167.7038</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="37" starttime="0">
-			<iteration num="1" starttime="5944.6558">
+		<session num="35" starttime="0">
+			<iteration num="1" starttime="5.1442">
 				<query>[java] remove tail space string</query>
 				<results>
 					<result rank="1">
@@ -6438,7 +6204,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="5948.2274">
+			<iteration num="2" starttime="9.9778">
 				<query>[java] remove space string</query>
 				<results>
 					<result rank="1">
@@ -6495,12 +6261,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5955.1777</starttime>
-						<endtime>5982.3192</endtime>
+						<starttime>18.3351</starttime>
+						<endtime>26.7806</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="5985.3539">
+			<iteration num="3" starttime="31.1254">
 				<query>[java]string trail space</query>
 				<results>
 					<result rank="1">
@@ -6557,12 +6323,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>5994.0424</starttime>
-						<endtime>6010.7957</endtime>
+						<starttime>32.5925</starttime>
+						<endtime>86.8377</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="6015.6957">
+			<iteration num="4" starttime="90.1162">
 				<query>[java]string trim</query>
 				<results>
 					<result rank="1">
@@ -6619,19 +6385,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>6016.9948</starttime>
-						<endtime>6100.4142</endtime>
+						<starttime>95.614</starttime>
+						<endtime>165.1912</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>6101.5282</starttime>
-						<endtime>6131.9881</endtime>
+						<starttime>175.1165</starttime>
+						<endtime>247.6227</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="38" starttime="0">
-			<iteration num="1" starttime="6136.1349">
+		<session num="36" starttime="0">
+			<iteration num="1" starttime="5.7742">
 				<query>[java]string replace</query>
 				<results>
 					<result rank="1">
@@ -6688,17 +6454,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>6138.8549</starttime>
-						<endtime>6172.2041</endtime>
+						<starttime>9.0867</starttime>
+						<endtime>67.3404</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>6179.5519</starttime>
-						<endtime>6267.3005</endtime>
+						<starttime>70.7396</starttime>
+						<endtime>72.1426</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="6271.9031">
+			<iteration num="2" starttime="76.226">
 				<query>[java]string replace with index</query>
 				<results>
 					<result rank="1">
@@ -6755,12 +6521,12 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>6277.6887</starttime>
-						<endtime>6324.4573</endtime>
+						<starttime>76.3781</starttime>
+						<endtime>93.4618</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="6328.1934">
+			<iteration num="3" starttime="97.0213">
 				<query>[java]string StringBuilder</query>
 				<results>
 					<result rank="1">
@@ -6817,24 +6583,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>6328.3643</starttime>
-						<endtime>6358.2826</endtime>
+						<starttime>97.3209</starttime>
+						<endtime>146.8422</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>6364.3745</starttime>
-						<endtime>6382.9114</endtime>
+						<starttime>147.9167</starttime>
+						<endtime>167.5918</endtime>
 					</click>
 					<click num="3">
 						<rank>5</rank>
-						<starttime>6392.0926</starttime>
-						<endtime>6432.0426</endtime>
+						<starttime>167.6898</starttime>
+						<endtime>193.2297</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="39" starttime="0">
-			<iteration num="1" starttime="6436.6439">
+		<session num="37" starttime="0">
+			<iteration num="1" starttime="5.1927">
 				<query>[java]how to encrypt string</query>
 				<results>
 					<result rank="1">
@@ -6891,22 +6657,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>6443.5545</starttime>
-						<endtime>6470.9724</endtime>
+						<starttime>10.5035</starttime>
+						<endtime>43.6967</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>6472.2999</starttime>
-						<endtime>6483.9673</endtime>
+						<starttime>49.2566</starttime>
+						<endtime>165.3097</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>6491.8135</starttime>
-						<endtime>6532.0305</endtime>
+						<starttime>174.3427</starttime>
+						<endtime>218.2002</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="6535.3287">
+			<iteration num="2" starttime="223.1849">
 				<query>[java]AESEncrypter</query>
 				<results>
 					<result rank="1">
@@ -6963,19 +6729,19 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>6545.2937</starttime>
-						<endtime>6546.0748</endtime>
+						<starttime>226.65</starttime>
+						<endtime>274.2742</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>6553.9461</starttime>
-						<endtime>6578.3925</endtime>
+						<starttime>278.8516</starttime>
+						<endtime>312.2015</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="40" starttime="0">
-			<iteration num="1" starttime="6581.6724">
+		<session num="38" starttime="0">
+			<iteration num="1" starttime="5.5982">
 				<query>[java]  get user input from cmd</query>
 				<results>
 					<result rank="1">
@@ -7032,12 +6798,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>6581.9616</starttime>
-						<endtime>6628.0332</endtime>
+						<starttime>9.597</starttime>
+						<endtime>99.6481</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="6632.3654">
+			<iteration num="2" starttime="104.3173">
 				<query>[java]  Scanner</query>
 				<results>
 					<result rank="1">
@@ -7094,17 +6860,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>6639.5891</starttime>
-						<endtime>6669.1128</endtime>
+						<starttime>109.8916</starttime>
+						<endtime>197.037</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>6672.9083</starttime>
-						<endtime>6749.9773</endtime>
+						<starttime>202.0595</starttime>
+						<endtime>242.3885</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="6753.1763">
+			<iteration num="3" starttime="246.4746">
 				<query>[java]  Scanner  split</query>
 				<results>
 					<result rank="1">
@@ -7161,14 +6927,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>6761.447</starttime>
-						<endtime>6807.4556</endtime>
+						<starttime>252.1955</starttime>
+						<endtime>273.7698</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="41" starttime="0">
-			<iteration num="1" starttime="6811.8175">
+		<session num="39" starttime="0">
+			<iteration num="1" starttime="4.1085">
 				<query>[java]math get power</query>
 				<results>
 					<result rank="1">
@@ -7225,12 +6991,12 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>6816.2558</starttime>
-						<endtime>6925.5721</endtime>
+						<starttime>5.1617</starttime>
+						<endtime>62.5653</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="6928.9447">
+			<iteration num="2" starttime="67.0483">
 				<query>[java]math.pow</query>
 				<results>
 					<result rank="1">
@@ -7287,24 +7053,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>6938.8673</starttime>
-						<endtime>6941.3869</endtime>
+						<starttime>72.6049</starttime>
+						<endtime>77.1199</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>6944.983</starttime>
-						<endtime>6945.0418</endtime>
+						<starttime>79.6472</starttime>
+						<endtime>122.2678</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>6950.8083</starttime>
-						<endtime>6979.3404</endtime>
+						<starttime>127.9395</starttime>
+						<endtime>160.129</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="42" starttime="0">
-			<iteration num="1" starttime="6983.7192">
+		<session num="40" starttime="0">
+			<iteration num="1" starttime="5.2221">
 				<query>[java]get mod of a number</query>
 				<results>
 					<result rank="1">
@@ -7361,12 +7127,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>6991.51</starttime>
-						<endtime>7032.208</endtime>
+						<starttime>11.5425</starttime>
+						<endtime>123.5131</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7036.5342">
+			<iteration num="2" starttime="128.0804">
 				<query>[java]get mod</query>
 				<results>
 					<result rank="1">
@@ -7423,17 +7189,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>7044.5381</starttime>
-						<endtime>7069.3877</endtime>
+						<starttime>130.7546</starttime>
+						<endtime>197.9927</endtime>
 					</click>
 					<click num="2">
 						<rank>1</rank>
-						<starttime>7072.7781</starttime>
-						<endtime>7082.6941</endtime>
+						<starttime>203.0492</starttime>
+						<endtime>251.5683</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="7087.1841">
+			<iteration num="3" starttime="255.5583">
 				<query>[java] math %</query>
 				<results>
 					<result rank="1">
@@ -7490,8 +7256,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="43" starttime="0">
-			<iteration num="1" starttime="7092.0173">
+		<session num="41" starttime="0">
+			<iteration num="1" starttime="4.3638">
 				<query>[java] convert bin to hex</query>
 				<results>
 					<result rank="1">
@@ -7548,17 +7314,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7093.5317</starttime>
-						<endtime>7100.3445</endtime>
+						<starttime>12.4856</starttime>
+						<endtime>31.4625</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>7107.2634</starttime>
-						<endtime>7121.121</endtime>
+						<starttime>39.5277</starttime>
+						<endtime>87.24</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7124.9046">
+			<iteration num="2" starttime="91.0921">
 				<query>[java]parseint</query>
 				<results>
 					<result rank="1">
@@ -7615,19 +7381,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7133.2865</starttime>
-						<endtime>7186.8338</endtime>
+						<starttime>92.3195</starttime>
+						<endtime>98.3135</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>7195.9426</starttime>
-						<endtime>7207.4499</endtime>
+						<starttime>107.1256</starttime>
+						<endtime>164.8448</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="44" starttime="0">
-			<iteration num="1" starttime="7212.0247">
+		<session num="42" starttime="0">
+			<iteration num="1" starttime="5.9095">
 				<query>[java]string get substring</query>
 				<results>
 					<result rank="1">
@@ -7684,17 +7450,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7219.4289</starttime>
-						<endtime>7237.2881</endtime>
+						<starttime>6.7121</starttime>
+						<endtime>31.7454</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>7237.7451</starttime>
-						<endtime>7275.6787</endtime>
+						<starttime>36.6646</starttime>
+						<endtime>95.9641</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7278.9694">
+			<iteration num="2" starttime="99.4426">
 				<query>[java]string.substring</query>
 				<results>
 					<result rank="1">
@@ -7751,14 +7517,14 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>7280.3058</starttime>
-						<endtime>7326.6502</endtime>
+						<starttime>101.769</starttime>
+						<endtime>129.5178</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="45" starttime="0">
-			<iteration num="1" starttime="7331.5613">
+		<session num="43" starttime="0">
+			<iteration num="1" starttime="4.3781">
 				<query>[java]array sort reverse</query>
 				<results>
 					<result rank="1">
@@ -7815,17 +7581,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>7337.2313</starttime>
-						<endtime>7366.355</endtime>
+						<starttime>4.6469</starttime>
+						<endtime>41.8491</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>7375.3017</starttime>
-						<endtime>7427.9954</endtime>
+						<starttime>45.8844</starttime>
+						<endtime>133.9335</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7431.549">
+			<iteration num="2" starttime="138.5658">
 				<query>[java]Sort arrays in descending order</query>
 				<results>
 					<result rank="1">
@@ -7882,19 +7648,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7431.655</starttime>
-						<endtime>7439.4475</endtime>
+						<starttime>147.1515</starttime>
+						<endtime>186.2789</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>7443.3229</starttime>
-						<endtime>7477.067</endtime>
+						<starttime>190.8789</starttime>
+						<endtime>209.4799</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="46" starttime="0">
-			<iteration num="1" starttime="7481.7202">
+		<session num="44" starttime="0">
+			<iteration num="1" starttime="4.8152">
 				<query>[java] get sum of an array</query>
 				<results>
 					<result rank="1">
@@ -7951,27 +7717,27 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7490.5137</starttime>
-						<endtime>7516.2777</endtime>
+						<starttime>13.9392</starttime>
+						<endtime>69.1806</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>7519.3579</starttime>
-						<endtime>7524.7581</endtime>
+						<starttime>73.1445</starttime>
+						<endtime>109.3771</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>7530.1457</starttime>
-						<endtime>7554.9756</endtime>
+						<starttime>118.7628</starttime>
+						<endtime>166.8925</endtime>
 					</click>
 					<click num="4">
 						<rank>4</rank>
-						<starttime>7563.9315</starttime>
-						<endtime>7570.1933</endtime>
+						<starttime>173.0195</starttime>
+						<endtime>173.1036</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7574.7898">
+			<iteration num="2" starttime="176.7748">
 				<query>[java] get sum set</query>
 				<results>
 					<result rank="1">
@@ -8028,14 +7794,14 @@
 				<clicked>
 					<click num="1">
 						<rank>7</rank>
-						<starttime>7583.0017</starttime>
-						<endtime>7701.3018</endtime>
+						<starttime>183.1673</starttime>
+						<endtime>186.9649</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="47" starttime="0">
-			<iteration num="1" starttime="7705.6237">
+		<session num="45" starttime="0">
+			<iteration num="1" starttime="5.5779">
 				<query>[java] deep copy an array</query>
 				<results>
 					<result rank="1">
@@ -8092,17 +7858,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7705.7674</starttime>
-						<endtime>7718.182</endtime>
+						<starttime>13.3374</starttime>
+						<endtime>32.5079</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>7718.9314</starttime>
-						<endtime>7722.2044</endtime>
+						<starttime>38.6981</starttime>
+						<endtime>48.718</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7725.7597">
+			<iteration num="2" starttime="52.5209">
 				<query>[java] arraycopy</query>
 				<results>
 					<result rank="1">
@@ -8159,19 +7925,19 @@
 				<clicked>
 					<click num="1">
 						<rank>6</rank>
-						<starttime>7734.8798</starttime>
-						<endtime>7742.7683</endtime>
+						<starttime>54.7368</starttime>
+						<endtime>59.8534</endtime>
 					</click>
 					<click num="2">
 						<rank>8</rank>
-						<starttime>7743.0509</starttime>
-						<endtime>7756.4805</endtime>
+						<starttime>62.4664</starttime>
+						<endtime>116.2598</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="48" starttime="0">
-			<iteration num="1" starttime="7759.948">
+		<session num="46" starttime="0">
+			<iteration num="1" starttime="5.964">
 				<query>[java] array fill with number</query>
 				<results>
 					<result rank="1">
@@ -8228,12 +7994,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>7764.5395</starttime>
-						<endtime>7818.7571</endtime>
+						<starttime>9.5883</starttime>
+						<endtime>11.0826</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7822.4665">
+			<iteration num="2" starttime="14.3284">
 				<query>[java] array fill</query>
 				<results>
 					<result rank="1">
@@ -8289,7 +8055,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="3" starttime="7827.3348">
+			<iteration num="3" starttime="18.0851">
 				<query>[java] array.fill</query>
 				<results>
 					<result rank="1">
@@ -8346,8 +8112,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="49" starttime="0">
-			<iteration num="1" starttime="7831.9611">
+		<session num="47" starttime="0">
+			<iteration num="1" starttime="4.5008">
 				<query>[java] enumerate class</query>
 				<results>
 					<result rank="1">
@@ -8404,17 +8170,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7831.9727</starttime>
-						<endtime>7868.9944</endtime>
+						<starttime>8.4812</starttime>
+						<endtime>13.8436</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>7873.7249</starttime>
-						<endtime>7923.1097</endtime>
+						<starttime>23.1872</starttime>
+						<endtime>44.5708</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="7927.8303">
+			<iteration num="2" starttime="48.3809">
 				<query>[java] enum</query>
 				<results>
 					<result rank="1">
@@ -8471,19 +8237,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>7929.3735</starttime>
-						<endtime>7957.4906</endtime>
+						<starttime>50.2437</starttime>
+						<endtime>65.3635</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>7958.7743</starttime>
-						<endtime>7959.572</endtime>
+						<starttime>68.5576</starttime>
+						<endtime>127.3483</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="50" starttime="0">
-			<iteration num="1" starttime="7963.1568">
+		<session num="48" starttime="0">
+			<iteration num="1" starttime="5.6975">
 				<query>[java] connect to mysql</query>
 				<results>
 					<result rank="1">
@@ -8540,17 +8306,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>7964.6322</starttime>
-						<endtime>8021.1824</endtime>
+						<starttime>12.7553</starttime>
+						<endtime>38.8345</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>8022.6689</starttime>
-						<endtime>8039.2842</endtime>
+						<starttime>41.3786</starttime>
+						<endtime>79.3982</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="8043.5816">
+			<iteration num="2" starttime="83.5801">
 				<query>[java] javax.sql.DataSource</query>
 				<results>
 					<result rank="1">
@@ -8607,19 +8373,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8045.2098</starttime>
-						<endtime>8076.7996</endtime>
+						<starttime>92.3081</starttime>
+						<endtime>119.9105</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>8084.0784</starttime>
-						<endtime>8110.667</endtime>
+						<starttime>129.1637</starttime>
+						<endtime>184.814</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="51" starttime="0">
-			<iteration num="1" starttime="8115.343">
+		<session num="49" starttime="0">
+			<iteration num="1" starttime="5.9281">
 				<query>[java] parse json</query>
 				<results>
 					<result rank="1">
@@ -8676,17 +8442,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8116.7036</starttime>
-						<endtime>8170.1</endtime>
+						<starttime>14.129</starttime>
+						<endtime>85.1625</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>8178.6791</starttime>
-						<endtime>8204.563</endtime>
+						<starttime>91.8003</starttime>
+						<endtime>99.2076</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="8208.9537">
+			<iteration num="2" starttime="104.006">
 				<query>[java] gson parse array</query>
 				<results>
 					<result rank="1">
@@ -8743,12 +8509,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>8217.7111</starttime>
-						<endtime>8310.1754</endtime>
+						<starttime>105.4631</starttime>
+						<endtime>151.6441</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="8313.2903">
+			<iteration num="3" starttime="156.3146">
 				<query>[java] gson parse map</query>
 				<results>
 					<result rank="1">
@@ -8805,14 +8571,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8314.8383</starttime>
-						<endtime>8330.1274</endtime>
+						<starttime>163.898</starttime>
+						<endtime>177.5238</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="52" starttime="0">
-			<iteration num="1" starttime="8334.3726">
+		<session num="50" starttime="0">
+			<iteration num="1" starttime="4.4897">
 				<query>[java] binary *2</query>
 				<results>
 					<result rank="1">
@@ -8869,12 +8635,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>8334.8548</starttime>
-						<endtime>8386.5606</endtime>
+						<starttime>8.6691</starttime>
+						<endtime>34.8853</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="8391.2291">
+			<iteration num="2" starttime="39.8075">
 				<query>[java] bitwise shift</query>
 				<results>
 					<result rank="1">
@@ -8931,14 +8697,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8395.3356</starttime>
-						<endtime>8397.2138</endtime>
+						<starttime>44.5729</starttime>
+						<endtime>46.0818</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="53" starttime="0">
-			<iteration num="1" starttime="8400.9091">
+		<session num="51" starttime="0">
+			<iteration num="1" starttime="5.8298">
 				<query>[java] connect mongodb</query>
 				<results>
 					<result rank="1">
@@ -8995,22 +8761,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8405.3446</starttime>
-						<endtime>8434.4487</endtime>
+						<starttime>13.8175</starttime>
+						<endtime>72.1147</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>8438.3063</starttime>
-						<endtime>8494.2198</endtime>
+						<starttime>77.3502</starttime>
+						<endtime>79.3078</endtime>
 					</click>
 					<click num="3">
 						<rank>5</rank>
-						<starttime>8498.9521</starttime>
-						<endtime>8527.1643</endtime>
+						<starttime>83.9777</starttime>
+						<endtime>136.4846</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="8530.5357">
+			<iteration num="2" starttime="140.5645">
 				<query>[java] MongoClient</query>
 				<results>
 					<result rank="1">
@@ -9067,19 +8833,19 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>8538.1862</starttime>
-						<endtime>8637.7978</endtime>
+						<starttime>146.5914</starttime>
+						<endtime>204.4012</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>8638.5761</starttime>
-						<endtime>8710.1086</endtime>
+						<starttime>204.9793</starttime>
+						<endtime>245.0823</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="54" starttime="0">
-			<iteration num="1" starttime="8714.4039">
+		<session num="52" starttime="0">
+			<iteration num="1" starttime="4.2989">
 				<query>[java] write csv file</query>
 				<results>
 					<result rank="1">
@@ -9136,27 +8902,27 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8720.9734</starttime>
-						<endtime>8730.5438</endtime>
+						<starttime>7.4664</starttime>
+						<endtime>13.9148</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>8735.6544</starttime>
-						<endtime>8745.5457</endtime>
+						<starttime>23.0004</starttime>
+						<endtime>67.719</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>8748.8928</starttime>
-						<endtime>8749.8313</endtime>
+						<starttime>73.9292</starttime>
+						<endtime>82.9522</endtime>
 					</click>
 					<click num="4">
 						<rank>6</rank>
-						<starttime>8758.1788</starttime>
-						<endtime>8811.0244</endtime>
+						<starttime>84.9898</starttime>
+						<endtime>130.7064</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="8815.6917">
+			<iteration num="2" starttime="134.0228">
 				<query>[java] CSVPrinter</query>
 				<results>
 					<result rank="1">
@@ -9213,19 +8979,19 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>8824.7311</starttime>
-						<endtime>8919.1221</endtime>
+						<starttime>136.5877</starttime>
+						<endtime>172.1525</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>8919.8617</starttime>
-						<endtime>8971.7491</endtime>
+						<starttime>176.6237</starttime>
+						<endtime>200.8755</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="55" starttime="0">
-			<iteration num="1" starttime="8975.117">
+		<session num="53" starttime="0">
+			<iteration num="1" starttime="5.3723">
 				<query>[java] convert json to array</query>
 				<results>
 					<result rank="1">
@@ -9282,12 +9048,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>8983.6602</starttime>
-						<endtime>8994.0134</endtime>
+						<starttime>9.9234</starttime>
+						<endtime>15.4888</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="8998.5796">
+			<iteration num="2" starttime="19.1607">
 				<query>[java] JSONArray</query>
 				<results>
 					<result rank="1">
@@ -9344,19 +9110,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9007.0735</starttime>
-						<endtime>9008.155</endtime>
+						<starttime>23.5597</starttime>
+						<endtime>83.3208</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>9017.4288</starttime>
-						<endtime>9057.7763</endtime>
+						<starttime>83.8113</starttime>
+						<endtime>113.4067</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="56" starttime="0">
-			<iteration num="1" starttime="9061.9591">
+		<session num="54" starttime="0">
+			<iteration num="1" starttime="4.3359">
 				<query>[java] get the length of string</query>
 				<results>
 					<result rank="1">
@@ -9412,7 +9178,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="9066.461">
+			<iteration num="2" starttime="7.4553">
 				<query>[java] length  string</query>
 				<results>
 					<result rank="1">
@@ -9468,7 +9234,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="3" starttime="9070.38">
+			<iteration num="3" starttime="11.7838">
 				<query>[java]  string size</query>
 				<results>
 					<result rank="1">
@@ -9524,7 +9290,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="9075.0219">
+			<iteration num="4" starttime="16.307">
 				<query>[java]  string len</query>
 				<results>
 					<result rank="1">
@@ -9580,7 +9346,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="5" starttime="9079.6397">
+			<iteration num="5" starttime="21.0521">
 				<query>[java]  string.length</query>
 				<results>
 					<result rank="1">
@@ -9637,14 +9403,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>9083.158</starttime>
-						<endtime>9084.4996</endtime>
+						<starttime>22.8071</starttime>
+						<endtime>69.6402</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="57" starttime="0">
-			<iteration num="1" starttime="9088.1836">
+		<session num="55" starttime="0">
+			<iteration num="1" starttime="4.0352">
 				<query>[java]  get item iteration</query>
 				<results>
 					<result rank="1">
@@ -9701,12 +9467,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>9092.9153</starttime>
-						<endtime>9133.1595</endtime>
+						<starttime>12.6069</starttime>
+						<endtime>56.5016</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="9137.7737">
+			<iteration num="2" starttime="61.4556">
 				<query>[java]  foreach</query>
 				<results>
 					<result rank="1">
@@ -9763,24 +9529,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9144.8787</starttime>
-						<endtime>9145.1966</endtime>
+						<starttime>65.8175</starttime>
+						<endtime>91.1215</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>9148.2878</starttime>
-						<endtime>9160.3726</endtime>
+						<starttime>95.5308</starttime>
+						<endtime>108.9054</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>9161.8879</starttime>
-						<endtime>9187.9068</endtime>
+						<starttime>111.43</starttime>
+						<endtime>186.2601</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="58" starttime="0">
-			<iteration num="1" starttime="9191.4307">
+		<session num="56" starttime="0">
+			<iteration num="1" starttime="4.6667">
 				<query>[java]load jpeg</query>
 				<results>
 					<result rank="1">
@@ -9837,17 +9603,17 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>9196.1325</starttime>
-						<endtime>9233.572</endtime>
+						<starttime>6.6599</starttime>
+						<endtime>52.5072</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>9238.5704</starttime>
-						<endtime>9257.1298</endtime>
+						<starttime>56.5048</starttime>
+						<endtime>72.0743</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="9260.5552">
+			<iteration num="2" starttime="76.5967">
 				<query>[java] ImageIO</query>
 				<results>
 					<result rank="1">
@@ -9904,19 +9670,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9265.3149</starttime>
-						<endtime>9266.5555</endtime>
+						<starttime>82.7991</starttime>
+						<endtime>109.7031</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>9275.2346</starttime>
-						<endtime>9318.5764</endtime>
+						<starttime>109.768</starttime>
+						<endtime>136.7415</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="59" starttime="0">
-			<iteration num="1" starttime="9321.6084">
+		<session num="57" starttime="0">
+			<iteration num="1" starttime="4.0693">
 				<query>[java] how to read a png</query>
 				<results>
 					<result rank="1">
@@ -9973,17 +9739,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9323.1631</starttime>
-						<endtime>9335.9928</endtime>
+						<starttime>6.064</starttime>
+						<endtime>57.1477</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>9341.1497</starttime>
-						<endtime>9344.5272</endtime>
+						<starttime>58.7632</starttime>
+						<endtime>95.5394</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="9348.0202">
+			<iteration num="2" starttime="99.0294">
 				<query>[java] ImageIO.read</query>
 				<results>
 					<result rank="1">
@@ -10040,19 +9806,19 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>9355.2322</starttime>
-						<endtime>9372.077</endtime>
+						<starttime>105.2045</starttime>
+						<endtime>131.9013</endtime>
 					</click>
 					<click num="2">
 						<rank>7</rank>
-						<starttime>9381.0738</starttime>
-						<endtime>9431.3813</endtime>
+						<starttime>134.239</starttime>
+						<endtime>160.8696</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="60" starttime="0">
-			<iteration num="1" starttime="9435.2725">
+		<session num="58" starttime="0">
+			<iteration num="1" starttime="5.5982">
 				<query>[java] show a picture in program</query>
 				<results>
 					<result rank="1">
@@ -10109,12 +9875,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9444.0942</starttime>
-						<endtime>9460.3166</endtime>
+						<starttime>7.2006</starttime>
+						<endtime>20.0488</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="9464.7265">
+			<iteration num="2" starttime="23.198">
 				<query>[java] DrawingPanel</query>
 				<results>
 					<result rank="1">
@@ -10171,19 +9937,19 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>9469.1385</starttime>
-						<endtime>9521.4886</endtime>
+						<starttime>27.5701</starttime>
+						<endtime>30.49</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>9526.9699</starttime>
-						<endtime>9540.2676</endtime>
+						<starttime>32.6558</starttime>
+						<endtime>46.929</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="61" starttime="0">
-			<iteration num="1" starttime="9544.7209">
+		<session num="59" starttime="0">
+			<iteration num="1" starttime="5.4621">
 				<query>[java] send email</query>
 				<results>
 					<result rank="1">
@@ -10240,17 +10006,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>9545.7882</starttime>
-						<endtime>9568.2692</endtime>
+						<starttime>8.2007</starttime>
+						<endtime>118.0534</endtime>
 					</click>
 					<click num="2">
 						<rank>6</rank>
-						<starttime>9570.9855</starttime>
-						<endtime>9618.3273</endtime>
+						<starttime>118.4953</starttime>
+						<endtime>122.9155</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="9621.8621">
+			<iteration num="2" starttime="126.5157">
 				<query>[java]javax.mail</query>
 				<results>
 					<result rank="1">
@@ -10307,19 +10073,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9630.2864</starttime>
-						<endtime>9740.5275</endtime>
+						<starttime>135.5326</starttime>
+						<endtime>231.5528</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>9742.7974</starttime>
-						<endtime>9748.2178</endtime>
+						<starttime>237.0343</starttime>
+						<endtime>254.9832</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="62" starttime="0">
-			<iteration num="1" starttime="9751.3353">
+		<session num="60" starttime="0">
+			<iteration num="1" starttime="4.6457">
 				<query>[java] get random number</query>
 				<results>
 					<result rank="1">
@@ -10376,17 +10142,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9758.5999</starttime>
-						<endtime>9834.9252</endtime>
+						<starttime>10.2302</starttime>
+						<endtime>110.7196</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>9842.3364</starttime>
-						<endtime>9866.5615</endtime>
+						<starttime>118.4728</starttime>
+						<endtime>170.9102</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="9869.8255">
+			<iteration num="2" starttime="174.3773">
 				<query>[java] Math.random()</query>
 				<results>
 					<result rank="1">
@@ -10443,12 +10209,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>9876.6851</starttime>
-						<endtime>9882.6788</endtime>
+						<starttime>181.2807</starttime>
+						<endtime>210.0959</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="9887.1766">
+			<iteration num="3" starttime="213.1776">
 				<query>[java] Random</query>
 				<results>
 					<result rank="1">
@@ -10504,7 +10270,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="9891.9353">
+			<iteration num="4" starttime="217.9416">
 				<query>[java] Random.nextint</query>
 				<results>
 					<result rank="1">
@@ -10560,7 +10326,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="5" starttime="9896.5669">
+			<iteration num="5" starttime="222.0173">
 				<query>[java] random 1 byte number</query>
 				<results>
 					<result rank="1">
@@ -10616,7 +10382,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="6" starttime="9900.9939">
+			<iteration num="6" starttime="226.7675">
 				<query>[java] random  byte number</query>
 				<results>
 					<result rank="1">
@@ -10673,19 +10439,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9901.662</starttime>
-						<endtime>9903.3111</endtime>
+						<starttime>231.1117</starttime>
+						<endtime>313.954</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>9906.6644</starttime>
-						<endtime>9954.5853</endtime>
+						<starttime>314.8811</starttime>
+						<endtime>315.9191</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="63" starttime="0">
-			<iteration num="1" starttime="9959.4229">
+		<session num="61" starttime="0">
+			<iteration num="1" starttime="5.3915">
 				<query>[java] use javascript in java</query>
 				<results>
 					<result rank="1">
@@ -10742,17 +10508,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>9964.6268</starttime>
-						<endtime>10015.5523</endtime>
+						<starttime>11.917</starttime>
+						<endtime>62.2736</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>10019.3283</starttime>
-						<endtime>10070.1161</endtime>
+						<starttime>69.6992</starttime>
+						<endtime>72.8246</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10073.9691">
+			<iteration num="2" starttime="76.0179">
 				<query>[java]ScriptEngineManager</query>
 				<results>
 					<result rank="1">
@@ -10809,14 +10575,14 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>10075.9295</starttime>
-						<endtime>10081.135</endtime>
+						<starttime>76.0439</starttime>
+						<endtime>79.3419</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="64" starttime="0">
-			<iteration num="1" starttime="10085.7772">
+		<session num="62" starttime="0">
+			<iteration num="1" starttime="5.0219">
 				<query>[java] convert list to json</query>
 				<results>
 					<result rank="1">
@@ -10873,12 +10639,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10093.5176</starttime>
-						<endtime>10135.5935</endtime>
+						<starttime>9.2208</starttime>
+						<endtime>27.372</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10139.8956">
+			<iteration num="2" starttime="31.7078">
 				<query>[java] GSON</query>
 				<results>
 					<result rank="1">
@@ -10935,24 +10701,24 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>10149.7464</starttime>
-						<endtime>10169.8405</endtime>
+						<starttime>41.0584</starttime>
+						<endtime>90.6484</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>10177.9292</starttime>
-						<endtime>10180.7381</endtime>
+						<starttime>96.148</starttime>
+						<endtime>127.8586</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>10182.3574</starttime>
-						<endtime>10188.7043</endtime>
+						<starttime>129.3647</starttime>
+						<endtime>218.6923</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="65" starttime="0">
-			<iteration num="1" starttime="10192.2293">
+		<session num="63" starttime="0">
+			<iteration num="1" starttime="5.9909">
 				<query>[java] how to build a jar package</query>
 				<results>
 					<result rank="1">
@@ -11009,12 +10775,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10195.5046</starttime>
-						<endtime>10237.3475</endtime>
+						<starttime>12.2064</starttime>
+						<endtime>48.2011</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10240.3826">
+			<iteration num="2" starttime="51.7335">
 				<query>[java] generate jar</query>
 				<results>
 					<result rank="1">
@@ -11071,17 +10837,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10247.1702</starttime>
-						<endtime>10262.6458</endtime>
+						<starttime>60.6826</starttime>
+						<endtime>72.7039</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>10272.1415</starttime>
-						<endtime>10323.1065</endtime>
+						<starttime>78.1867</starttime>
+						<endtime>93.025</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="10327.3405">
+			<iteration num="3" starttime="97.1506">
 				<query>[java] java -jar</query>
 				<results>
 					<result rank="1">
@@ -11138,8 +10904,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="66" starttime="0">
-			<iteration num="1" starttime="10331.5834">
+		<session num="64" starttime="0">
+			<iteration num="1" starttime="5.0413">
 				<query>[java] socket with port</query>
 				<results>
 					<result rank="1">
@@ -11196,17 +10962,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10340.2472</starttime>
-						<endtime>10342.129</endtime>
+						<starttime>7.7637</starttime>
+						<endtime>29.4554</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>10345.5454</starttime>
-						<endtime>10370.5055</endtime>
+						<starttime>35.8309</starttime>
+						<endtime>85.8787</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10374.934">
+			<iteration num="2" starttime="89.5822">
 				<query>[java] socket(port)</query>
 				<results>
 					<result rank="1">
@@ -11263,14 +11029,14 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>10380.8465</starttime>
-						<endtime>10407.748</endtime>
+						<starttime>97.7187</starttime>
+						<endtime>99.6042</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="67" starttime="0">
-			<iteration num="1" starttime="10412.3846">
+		<session num="65" starttime="0">
+			<iteration num="1" starttime="5.6057">
 				<query>[java] extend array with another array</query>
 				<results>
 					<result rank="1">
@@ -11327,12 +11093,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10412.8818</starttime>
-						<endtime>10428.8444</endtime>
+						<starttime>14.216</starttime>
+						<endtime>33.4783</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10433.2215">
+			<iteration num="2" starttime="37.5227">
 				<query>[java] extend array</query>
 				<results>
 					<result rank="1">
@@ -11389,22 +11155,22 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10436.1107</starttime>
-						<endtime>10454.9621</endtime>
+						<starttime>39.8816</starttime>
+						<endtime>70.1465</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>10455.8879</starttime>
-						<endtime>10474.7874</endtime>
+						<starttime>70.4488</starttime>
+						<endtime>82.8892</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>10482.5813</starttime>
-						<endtime>10528.2132</endtime>
+						<starttime>84.0243</starttime>
+						<endtime>92.7846</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="10532.9631">
+			<iteration num="3" starttime="96.5868">
 				<query>[java] extend arraylist</query>
 				<results>
 					<result rank="1">
@@ -11461,24 +11227,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10537.5608</starttime>
-						<endtime>10585.6759</endtime>
+						<starttime>103.2217</starttime>
+						<endtime>138.1087</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>10585.9387</starttime>
-						<endtime>10610.1335</endtime>
+						<starttime>142.5433</starttime>
+						<endtime>150.4149</endtime>
 					</click>
 					<click num="3">
 						<rank>3</rank>
-						<starttime>10617.8656</starttime>
-						<endtime>10633.598</endtime>
+						<starttime>151.6933</starttime>
+						<endtime>166.3846</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="68" starttime="0">
-			<iteration num="1" starttime="10636.8604">
+		<session num="66" starttime="0">
+			<iteration num="1" starttime="4.7175">
 				<query>[java] Create ArrayList from array</query>
 				<results>
 					<result rank="1">
@@ -11535,12 +11301,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10646.7175</starttime>
-						<endtime>10689.0958</endtime>
+						<starttime>6.4151</starttime>
+						<endtime>24.9273</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10693.6685">
+			<iteration num="2" starttime="29.7477">
 				<query>[java] Arrays.asList</query>
 				<results>
 					<result rank="1">
@@ -11597,19 +11363,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10695.8304</starttime>
-						<endtime>10710.351</endtime>
+						<starttime>30.0936</starttime>
+						<endtime>56.045</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>10716.4473</starttime>
-						<endtime>10737.1897</endtime>
+						<starttime>59.8899</starttime>
+						<endtime>75.7288</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="69" starttime="0">
-			<iteration num="1" starttime="10741.6391">
+		<session num="67" starttime="0">
+			<iteration num="1" starttime="5.1124">
 				<query>[java] convert array to arraylist</query>
 				<results>
 					<result rank="1">
@@ -11666,27 +11432,27 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>10742.7758</starttime>
-						<endtime>10806.0828</endtime>
+						<starttime>8.4298</starttime>
+						<endtime>31.1731</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>10815.2132</starttime>
-						<endtime>10843.3522</endtime>
+						<starttime>35.9712</starttime>
+						<endtime>88.0788</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>10851.8428</starttime>
-						<endtime>10911.0508</endtime>
+						<starttime>90.9416</starttime>
+						<endtime>114.6031</endtime>
 					</click>
 					<click num="4">
 						<rank>5</rank>
-						<starttime>10920.7745</starttime>
-						<endtime>10956.2963</endtime>
+						<starttime>115.5033</starttime>
+						<endtime>141.8023</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="10960.5403">
+			<iteration num="2" starttime="145.1509">
 				<query>[java] Arrays.asList</query>
 				<results>
 					<result rank="1">
@@ -11743,14 +11509,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>10963.8549</starttime>
-						<endtime>11015.3553</endtime>
+						<starttime>149.8569</starttime>
+						<endtime>194.8278</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="70" starttime="0">
-			<iteration num="1" starttime="11018.7503">
+		<session num="68" starttime="0">
+			<iteration num="1" starttime="4.423">
 				<query>[java] how to add a button to gui</query>
 				<results>
 					<result rank="1">
@@ -11807,12 +11573,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11026.6118</starttime>
-						<endtime>11043.7123</endtime>
+						<starttime>9.1679</starttime>
+						<endtime>50.8666</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="11047.6406">
+			<iteration num="2" starttime="54.3592">
 				<query>[java] javax.swing</query>
 				<results>
 					<result rank="1">
@@ -11869,12 +11635,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>11048.9408</starttime>
-						<endtime>11101.7013</endtime>
+						<starttime>58.7839</starttime>
+						<endtime>149.3633</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="11105.5235">
+			<iteration num="3" starttime="153.7703">
 				<query>[java] JFrame</query>
 				<results>
 					<result rank="1">
@@ -11931,12 +11697,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>11113.8796</starttime>
-						<endtime>11126.8299</endtime>
+						<starttime>157.9553</starttime>
+						<endtime>211.0186</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="11130.5866">
+			<iteration num="4" starttime="214.6561">
 				<query>[java] JButton</query>
 				<results>
 					<result rank="1">
@@ -11993,14 +11759,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>11131.4791</starttime>
-						<endtime>11170.8581</endtime>
+						<starttime>220.1932</starttime>
+						<endtime>251.229</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="71" starttime="0">
-			<iteration num="1" starttime="11173.8951">
+		<session num="69" starttime="0">
+			<iteration num="1" starttime="5.3581">
 				<query>[java] how to show a picture in gui</query>
 				<results>
 					<result rank="1">
@@ -12056,7 +11822,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="11177.2176">
+			<iteration num="2" starttime="9.1149">
 				<query>[java] image in gui</query>
 				<results>
 					<result rank="1">
@@ -12113,19 +11879,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11183.7518</starttime>
-						<endtime>11187.152</endtime>
+						<starttime>11.2706</starttime>
+						<endtime>39.174</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>11193.6312</starttime>
-						<endtime>11222.8837</endtime>
+						<starttime>44.188</starttime>
+						<endtime>84.111</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="72" starttime="0">
-			<iteration num="1" starttime="11225.9672">
+		<session num="70" starttime="0">
+			<iteration num="1" starttime="5.8602">
 				<query>[java] add checkbox in gui</query>
 				<results>
 					<result rank="1">
@@ -12182,17 +11948,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11231.6404</starttime>
-						<endtime>11240.0909</endtime>
+						<starttime>13.8917</starttime>
+						<endtime>22.2521</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>11246.9332</starttime>
-						<endtime>11264.0348</endtime>
+						<starttime>27.2455</starttime>
+						<endtime>126.1156</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="11268.0395">
+			<iteration num="2" starttime="129.9083">
 				<query>[java] JCheckBox</query>
 				<results>
 					<result rank="1">
@@ -12249,19 +12015,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11269.1729</starttime>
-						<endtime>11312.0645</endtime>
+						<starttime>139.0362</starttime>
+						<endtime>236.4843</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>11314.8878</starttime>
-						<endtime>11321.8386</endtime>
+						<starttime>240.0505</starttime>
+						<endtime>283.624</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="73" starttime="0">
-			<iteration num="1" starttime="11325.974">
+		<session num="71" starttime="0">
+			<iteration num="1" starttime="4.9508">
 				<query>[java] hashcode</query>
 				<results>
 					<result rank="1">
@@ -12317,7 +12083,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="11330.5617">
+			<iteration num="2" starttime="8.9418">
 				<query>[java] hashcode override</query>
 				<results>
 					<result rank="1">
@@ -12374,12 +12140,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11340.2956</starttime>
-						<endtime>11412.9633</endtime>
+						<starttime>12.8919</starttime>
+						<endtime>38.0158</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="11417.8758">
+			<iteration num="3" starttime="42.85">
 				<query>[java] hashcode override prime number</query>
 				<results>
 					<result rank="1">
@@ -12436,14 +12202,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>11426.3751</starttime>
-						<endtime>11428.1586</endtime>
+						<starttime>45.9156</starttime>
+						<endtime>54.2958</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="74" starttime="0">
-			<iteration num="1" starttime="11432.0135">
+		<session num="72" starttime="0">
+			<iteration num="1" starttime="4.4022">
 				<query>[java] how to listen a click</query>
 				<results>
 					<result rank="1">
@@ -12500,12 +12266,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11440.3909</starttime>
-						<endtime>11455.7306</endtime>
+						<starttime>12.6275</starttime>
+						<endtime>68.3576</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="11460.3825">
+			<iteration num="2" starttime="72.6927">
 				<query>[java]  listen click</query>
 				<results>
 					<result rank="1">
@@ -12562,12 +12328,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11467.4607</starttime>
-						<endtime>11474.6457</endtime>
+						<starttime>77.8479</starttime>
+						<endtime>85.1111</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="11479.4391">
+			<iteration num="3" starttime="89.3345">
 				<query>[java]  addActionListener</query>
 				<results>
 					<result rank="1">
@@ -12624,24 +12390,24 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11487.7782</starttime>
-						<endtime>11521.8693</endtime>
+						<starttime>89.7306</starttime>
+						<endtime>95.8622</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>11522.2636</starttime>
-						<endtime>11579.5855</endtime>
+						<starttime>100.5089</starttime>
+						<endtime>109.5495</endtime>
 					</click>
 					<click num="3">
 						<rank>4</rank>
-						<starttime>11581.424</starttime>
-						<endtime>11610.874</endtime>
+						<starttime>119.1748</starttime>
+						<endtime>174.6407</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="75" starttime="0">
-			<iteration num="1" starttime="11614.2755">
+		<session num="73" starttime="0">
+			<iteration num="1" starttime="4.5402">
 				<query>[java]  difference between do while and while</query>
 				<results>
 					<result rank="1">
@@ -12698,12 +12464,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>11618.941</starttime>
-						<endtime>11663.2634</endtime>
+						<starttime>13.3468</starttime>
+						<endtime>53.3035</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="11667.6494">
+			<iteration num="2" starttime="57.413">
 				<query>[java]  do while and while</query>
 				<results>
 					<result rank="1">
@@ -12760,19 +12526,19 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>11670.6357</starttime>
-						<endtime>11740.8424</endtime>
+						<starttime>58.2524</starttime>
+						<endtime>81.6977</endtime>
 					</click>
 					<click num="2">
 						<rank>6</rank>
-						<starttime>11748.381</starttime>
-						<endtime>11825.3193</endtime>
+						<starttime>83.8528</starttime>
+						<endtime>129.4072</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="76" starttime="0">
-			<iteration num="1" starttime="11828.5172">
+		<session num="74" starttime="0">
+			<iteration num="1" starttime="4.6284">
 				<query>[java]  difference between interface and abstract</query>
 				<results>
 					<result rank="1">
@@ -12829,17 +12595,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>11828.7708</starttime>
-						<endtime>11854.3473</endtime>
+						<starttime>8.6796</starttime>
+						<endtime>29.6023</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>11860.1968</starttime>
-						<endtime>11865.4662</endtime>
+						<starttime>35.5604</starttime>
+						<endtime>53.5535</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="11869.6604">
+			<iteration num="2" starttime="58.0017">
 				<query>[java]  interface and abstract</query>
 				<results>
 					<result rank="1">
@@ -12896,19 +12662,19 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>11870.5803</starttime>
-						<endtime>11885.6537</endtime>
+						<starttime>60.1698</starttime>
+						<endtime>81.9216</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>11886.6446</starttime>
-						<endtime>11893.8089</endtime>
+						<starttime>91.7631</starttime>
+						<endtime>131.2633</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="77" starttime="0">
-			<iteration num="1" starttime="11897.0348">
+		<session num="75" starttime="0">
+			<iteration num="1" starttime="4.7833">
 				<query>[java]  change the parameter</query>
 				<results>
 					<result rank="1">
@@ -12965,12 +12731,12 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>11901.055</starttime>
-						<endtime>11943.4782</endtime>
+						<starttime>10.4743</starttime>
+						<endtime>34.5224</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="11946.7347">
+			<iteration num="2" starttime="39.2897">
 				<query>[java]  change parameter value in function</query>
 				<results>
 					<result rank="1">
@@ -13027,19 +12793,19 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>11951.3112</starttime>
-						<endtime>11960.4903</endtime>
+						<starttime>39.4319</starttime>
+						<endtime>74.3873</endtime>
 					</click>
 					<click num="2">
 						<rank>6</rank>
-						<starttime>11965.4067</starttime>
-						<endtime>12020.7603</endtime>
+						<starttime>76.0554</starttime>
+						<endtime>119.968</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="78" starttime="0">
-			<iteration num="1" starttime="12025.2591">
+		<session num="76" starttime="0">
+			<iteration num="1" starttime="5.676">
 				<query>[java]  get the running time of program</query>
 				<results>
 					<result rank="1">
@@ -13096,12 +12862,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12027.8622</starttime>
-						<endtime>12029.8478</endtime>
+						<starttime>12.2004</starttime>
+						<endtime>59.1227</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="12033.4211">
+			<iteration num="2" starttime="63.0488">
 				<query>[java]  System.nanoTime</query>
 				<results>
 					<result rank="1">
@@ -13158,19 +12924,19 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12041.6772</starttime>
-						<endtime>12094.5539</endtime>
+						<starttime>69.0133</starttime>
+						<endtime>93.9003</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>12099.3777</starttime>
-						<endtime>12109.6108</endtime>
+						<starttime>97.0444</starttime>
+						<endtime>102.5325</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="79" starttime="0">
-			<iteration num="1" starttime="12112.8516">
+		<session num="77" starttime="0">
+			<iteration num="1" starttime="5.0944">
 				<query>[java]  difference between System.nanoTime and System.currentTimeMillis</query>
 				<results>
 					<result rank="1">
@@ -13227,12 +12993,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12120.0472</starttime>
-						<endtime>12236.9972</endtime>
+						<starttime>12.7075</starttime>
+						<endtime>40.0157</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="12240.7979">
+			<iteration num="2" starttime="44.1908">
 				<query>[java]  nanoTime and currentTimeMillis</query>
 				<results>
 					<result rank="1">
@@ -13289,19 +13055,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12247.094</starttime>
-						<endtime>12289.7315</endtime>
+						<starttime>53.6395</starttime>
+						<endtime>58.4921</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>12292.9463</starttime>
-						<endtime>12297.0693</endtime>
+						<starttime>62.648</starttime>
+						<endtime>83.3508</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="80" starttime="0">
-			<iteration num="1" starttime="12301.255">
+		<session num="78" starttime="0">
+			<iteration num="1" starttime="4.5018">
 				<query>[java]  \r and \n</query>
 				<results>
 					<result rank="1">
@@ -13357,7 +13123,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="12304.7777">
+			<iteration num="2" starttime="7.8423">
 				<query>[java]  difference between \r and \n</query>
 				<results>
 					<result rank="1">
@@ -13413,7 +13179,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="3" starttime="12308.5874">
+			<iteration num="3" starttime="10.9149">
 				<query>[java]  \r \n \r\n</query>
 				<results>
 					<result rank="1">
@@ -13470,8 +13236,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="81" starttime="0">
-			<iteration num="1" starttime="12312.6999">
+		<session num="79" starttime="0">
+			<iteration num="1" starttime="5.7422">
 				<query>[java] call method by its name</query>
 				<results>
 					<result rank="1">
@@ -13528,17 +13294,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12319.1705</starttime>
-						<endtime>12368.0191</endtime>
+						<starttime>12.8933</starttime>
+						<endtime>17.5354</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>12373.4665</starttime>
-						<endtime>12487.9378</endtime>
+						<starttime>26.7306</starttime>
+						<endtime>73.7716</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="12491.5353">
+			<iteration num="2" starttime="76.9666">
 				<query>[java] call method by reflection</query>
 				<results>
 					<result rank="1">
@@ -13595,12 +13361,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12492.0986</starttime>
-						<endtime>12495.1049</endtime>
+						<starttime>81.7203</starttime>
+						<endtime>117.9004</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="12499.7897">
+			<iteration num="3" starttime="121.3761">
 				<query>[java] how to use reflection</query>
 				<results>
 					<result rank="1">
@@ -13656,7 +13422,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="12502.9534">
+			<iteration num="4" starttime="126.1973">
 				<query>[java]  reflection</query>
 				<results>
 					<result rank="1">
@@ -13713,12 +13479,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12512.4155</starttime>
-						<endtime>12559.2505</endtime>
+						<starttime>130.1958</starttime>
+						<endtime>196.0599</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="5" starttime="12562.3509">
+			<iteration num="5" starttime="200.8633">
 				<query>[java]  get static method by reflection</query>
 				<results>
 					<result rank="1">
@@ -13775,8 +13541,128 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="83" starttime="0">
-			<iteration num="1" starttime="12565.7556">
+		<session num="80" starttime="0">
+			<iteration num="1" starttime="5.3376">
+				<query>[Java]  intersection</query>
+				<results>
+					<result rank="1">
+						<url>https://stackoverflow.com/questions/8882097/how-to-calculate-the-intersection-of-two-sets?r=SearchResults</url>
+						<postid>8882097</postid>
+						<title>Q: How to calculate the intersection of two sets? [duplicate]</title>
+					</result>
+					<result rank="2">
+						<url>https://stackoverflow.com/questions/13180488/intersection-of-java-util-map?r=SearchResults</url>
+						<postid>13180488</postid>
+						<title>Q: Intersection of java.util.Map</title>
+					</result>
+					<result rank="3">
+						<url>https://stackoverflow.com/questions/4349369/list-intersection-in-java?r=SearchResults</url>
+						<postid>4349369</postid>
+						<title>Q: List intersection in java</title>
+					</result>
+					<result rank="4">
+						<url>https://stackoverflow.com/questions/33779366/finding-intersection?r=SearchResults</url>
+						<postid>33779366</postid>
+						<title>Q: Finding intersection</title>
+					</result>
+					<result rank="5">
+						<url>https://stackoverflow.com/questions/2400838/efficient-intersection-of-two-liststring-in-java?r=SearchResults</url>
+						<postid>2400838</postid>
+						<title>Q: Efficient intersection of two List&lt;String&gt; in Java?</title>
+					</result>
+					<result rank="6">
+						<url>https://stackoverflow.com/questions/43354567/java-package-com-google-common-collect-range-localdate-intersection-returns-a?r=SearchResults</url>
+						<postid>43354567</postid>
+						<title>Q: java package com.google.common.collect.Range&lt; LocalDate &gt; intersection returns a wrong inter…</title>
+					</result>
+					<result rank="7">
+						<url>https://stackoverflow.com/questions/29854085/line-segments-intersectionintersection-point?r=SearchResults</url>
+						<postid>29854085</postid>
+						<title>Q: Line Segments Intersection(intersection Point)</title>
+					</result>
+					<result rank="8">
+						<url>https://stackoverflow.com/questions/17863319/java-find-intersection-of-two-arrays?r=SearchResults</url>
+						<postid>17863319</postid>
+						<title>Q: Java, find intersection of two arrays</title>
+					</result>
+					<result rank="9">
+						<url>https://stackoverflow.com/questions/23918737/sphere-sphere-intersection-and-circle-sphere-intersection?r=SearchResults</url>
+						<postid>23918737</postid>
+						<title>Q: Sphere-Sphere intersection and Circle-Sphere intersection</title>
+					</result>
+					<result rank="10">
+						<url>https://stackoverflow.com/questions/15633994/improving-intersection-algorithm?r=SearchResults</url>
+						<postid>15633994</postid>
+						<title>Q: Improving Intersection Algorithm</title>
+					</result>
+				</results>
+				<clicked/>
+			</iteration>
+			<iteration num="2" starttime="9.5824">
+				<query>[Java]  compute intersection of two sets</query>
+				<results>
+					<result rank="1">
+						<url>https://stackoverflow.com/questions/7574311/efficiently-compute-intersection-of-two-sets-in-java?r=SearchResults</url>
+						<postid>7574311</postid>
+						<title>Q: Efficiently compute Intersection of two Sets in Java?</title>
+					</result>
+					<result rank="2">
+						<url>https://stackoverflow.com/questions/42542838/why-is-retainall-not-accurately-computing-the-intersection-of-two-sets?r=SearchResults</url>
+						<postid>42542838</postid>
+						<title>Q: Why is retainAll not accurately computing the intersection of two sets?</title>
+					</result>
+					<result rank="3">
+						<url>https://stackoverflow.com/questions/55571912/how-to-nicely-intersect-two-sets-build-from-two-maps?r=SearchResults</url>
+						<postid>55571912</postid>
+						<title>Q: How to nicely intersect two sets build from two maps?</title>
+					</result>
+					<result rank="4">
+						<url>https://stackoverflow.com/questions/18364412/generate-point-based-on-intersection-of-two-line-beyond-canvas-limit?r=SearchResults</url>
+						<postid>18364412</postid>
+						<title>Q: Generate point based on intersection of two line beyond canvas limit</title>
+					</result>
+					<result rank="5">
+						<url>https://stackoverflow.com/questions/6469171/computing-set-intersection-and-set-difference-of-the-records-of-two-files-with-h?r=SearchResults</url>
+						<postid>6469171</postid>
+						<title>Q: Computing set intersection and set difference of the records of two files with hadoop</title>
+					</result>
+					<result rank="6">
+						<url>https://stackoverflow.com/questions/43937966/is-there-an-array-intersect-equivalent-in-java/43938036?r=SearchResults#43938036</url>
+						<postid>43938036</postid>
+						<title>A: Is there an array_intersect() equivalent in java?</title>
+					</result>
+					<result rank="7">
+						<url>https://stackoverflow.com/questions/5005829/tools-to-find-code-coverage-intersections/6351758?r=SearchResults#6351758</url>
+						<postid>6351758</postid>
+						<title>A: Tools to find code coverage intersections?</title>
+					</result>
+					<result rank="8">
+						<url>https://stackoverflow.com/questions/21828805/string-matching-operation/21829589?r=SearchResults#21829589</url>
+						<postid>21829589</postid>
+						<title>A: String matching operation</title>
+					</result>
+					<result rank="9">
+						<url>https://stackoverflow.com/questions/20957314/efficient-intersection-and-union-of-lists-of-strings?r=SearchResults</url>
+						<postid>20957314</postid>
+						<title>Q: Efficient Intersection and Union of Lists of Strings</title>
+					</result>
+					<result rank="10">
+						<url>https://stackoverflow.com/questions/52937323/interview-question-query-which-sentences-contain-all-of-the-words-of-a-phrase/52938035?r=SearchResults#52938035</url>
+						<postid>52938035</postid>
+						<title>A: Interview Question: Query - which sentences contain all of the words of a phrase</title>
+					</result>
+				</results>
+				<clicked>
+					<click num="1">
+						<rank>1</rank>
+						<starttime>10.8553</starttime>
+						<endtime>28.8167</endtime>
+					</click>
+				</clicked>
+			</iteration>
+		</session>
+		<session num="81" starttime="0">
+			<iteration num="1" starttime="5.7612">
 				<query>[java] read file</query>
 				<results>
 					<result rank="1">
@@ -13833,17 +13719,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12574.2539</starttime>
-						<endtime>12577.967</endtime>
+						<starttime>5.8681</starttime>
+						<endtime>38.9972</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>12585.6206</starttime>
-						<endtime>12589.4715</endtime>
+						<starttime>41.6017</starttime>
+						<endtime>92.9549</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="12593.9134">
+			<iteration num="2" starttime="97.9267">
 				<query>[java] read file by byte</query>
 				<results>
 					<result rank="1">
@@ -13900,12 +13786,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12603.7956</starttime>
-						<endtime>12648.9986</endtime>
+						<starttime>105.6653</starttime>
+						<endtime>130.8475</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="12652.7935">
+			<iteration num="3" starttime="134.8217">
 				<query>[java] read file by position</query>
 				<results>
 					<result rank="1">
@@ -13962,12 +13848,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12654.355</starttime>
-						<endtime>12678.3246</endtime>
+						<starttime>144.4119</starttime>
+						<endtime>204.3366</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="12681.8867">
+			<iteration num="4" starttime="209.0939">
 				<query>[java] random read file</query>
 				<results>
 					<result rank="1">
@@ -14024,19 +13910,19 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12685.5129</starttime>
-						<endtime>12732.1497</endtime>
+						<starttime>211.9324</starttime>
+						<endtime>271.6495</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>12738.8862</starttime>
-						<endtime>12798.5365</endtime>
+						<starttime>279.8256</starttime>
+						<endtime>285.5196</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="84" starttime="0">
-			<iteration num="1" starttime="12803.1797">
+		<session num="82" starttime="0">
+			<iteration num="1" starttime="4.3179">
 				<query>[java] string remove white space</query>
 				<results>
 					<result rank="1">
@@ -14093,12 +13979,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>12809.092</starttime>
-						<endtime>12824.319</endtime>
+						<starttime>7.6152</starttime>
+						<endtime>15.4338</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="12828.8534">
+			<iteration num="2" starttime="19.6788">
 				<query>[java] string remove \\n</query>
 				<results>
 					<result rank="1">
@@ -14155,12 +14041,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12837.2331</starttime>
-						<endtime>12854.8178</endtime>
+						<starttime>23.1192</starttime>
+						<endtime>31.2711</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="12858.4456">
+			<iteration num="3" starttime="35.2781">
 				<query>[java] string remove \\r\\n</query>
 				<results>
 					<result rank="1">
@@ -14217,14 +14103,14 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>12867.1367</starttime>
-						<endtime>12920.3613</endtime>
+						<starttime>42.1855</starttime>
+						<endtime>42.7271</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="85" starttime="0">
-			<iteration num="1" starttime="12925.3151">
+		<session num="83" starttime="0">
+			<iteration num="1" starttime="4.7366">
 				<query>[java] spring boot read resource file</query>
 				<results>
 					<result rank="1">
@@ -14281,12 +14167,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>12934.3174</starttime>
-						<endtime>13041.953</endtime>
+						<starttime>6.7463</starttime>
+						<endtime>19.7967</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="13045.8924">
+			<iteration num="2" starttime="24.5601">
 				<query>[java] spring boot resource file path</query>
 				<results>
 					<result rank="1">
@@ -14343,22 +14229,22 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>13051.5248</starttime>
-						<endtime>13153.8115</endtime>
+						<starttime>31.75</starttime>
+						<endtime>61.3192</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>13155.2089</starttime>
-						<endtime>13163.4809</endtime>
+						<starttime>69.5663</starttime>
+						<endtime>123.5974</endtime>
 					</click>
 					<click num="3">
 						<rank>5</rank>
-						<starttime>13170.805</starttime>
-						<endtime>13173.6593</endtime>
+						<starttime>126.2456</starttime>
+						<endtime>178.4121</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="13177.1895">
+			<iteration num="3" starttime="182.1149">
 				<query>[java] read resource file in spring boot</query>
 				<results>
 					<result rank="1">
@@ -14414,7 +14300,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="13182.073">
+			<iteration num="4" starttime="185.2695">
 				<query>[java] read resource in spring boot</query>
 				<results>
 					<result rank="1">
@@ -14471,12 +14357,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13189.4088</starttime>
-						<endtime>13191.494</endtime>
+						<starttime>189.7513</starttime>
+						<endtime>244.8559</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="5" starttime="13195.5204">
+			<iteration num="5" starttime="249.5547">
 				<query>[java] resource path in spring boot</query>
 				<results>
 					<result rank="1">
@@ -14532,7 +14418,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="6" starttime="13198.9572">
+			<iteration num="6" starttime="253.6509">
 				<query>[java] find resource file in spring boot jar</query>
 				<results>
 					<result rank="1">
@@ -14589,14 +14475,14 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>13202.7835</starttime>
-						<endtime>13254.6086</endtime>
+						<starttime>261.3776</starttime>
+						<endtime>313.767</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="86" starttime="0">
-			<iteration num="1" starttime="13258.1226">
+		<session num="84" starttime="0">
+			<iteration num="1" starttime="4.1885">
 				<query>[java] copy an object</query>
 				<results>
 					<result rank="1">
@@ -14653,17 +14539,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13262.9569</starttime>
-						<endtime>13273.8239</endtime>
+						<starttime>6.2303</starttime>
+						<endtime>34.7773</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>13282.1265</starttime>
-						<endtime>13366.6397</endtime>
+						<starttime>43.1073</starttime>
+						<endtime>86.7258</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="13370.7001">
+			<iteration num="2" starttime="90.4221">
 				<query>[java] deep copy an object</query>
 				<results>
 					<result rank="1">
@@ -14720,12 +14606,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>13371.1915</starttime>
-						<endtime>13430.0596</endtime>
+						<starttime>94.817</starttime>
+						<endtime>105.1196</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="13433.8945">
+			<iteration num="3" starttime="109.5802">
 				<query>[java] deep copy</query>
 				<results>
 					<result rank="1">
@@ -14782,12 +14668,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13442.901</starttime>
-						<endtime>13535.2189</endtime>
+						<starttime>113.6408</starttime>
+						<endtime>123.3623</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="13539.8508">
+			<iteration num="4" starttime="127.1425">
 				<query>[java] deep copy with serialize</query>
 				<results>
 					<result rank="1">
@@ -14844,8 +14730,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="87" starttime="0">
-			<iteration num="1" starttime="13544.1197">
+		<session num="85" starttime="0">
+			<iteration num="1" starttime="5.6749">
 				<query>[java] change first character to lower case</query>
 				<results>
 					<result rank="1">
@@ -14902,12 +14788,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13549.6447</starttime>
-						<endtime>13590.6003</endtime>
+						<starttime>7.184</starttime>
+						<endtime>56.5755</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="13595.3349">
+			<iteration num="2" starttime="61.3951">
 				<query>[java] stringbuilder</query>
 				<results>
 					<result rank="1">
@@ -14964,12 +14850,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13600.6899</starttime>
-						<endtime>13669.6529</endtime>
+						<starttime>68.1561</starttime>
+						<endtime>113.777</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="13674.2132">
+			<iteration num="3" starttime="117.0847">
 				<query>[java] touppercase tolowercase</query>
 				<results>
 					<result rank="1">
@@ -15026,14 +14912,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13676.4051</starttime>
-						<endtime>13709.1924</endtime>
+						<starttime>123.2817</starttime>
+						<endtime>141.2108</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="88" starttime="0">
-			<iteration num="1" starttime="13713.3058">
+		<session num="86" starttime="0">
+			<iteration num="1" starttime="4.2354">
 				<query>[java] encrypt string</query>
 				<results>
 					<result rank="1">
@@ -15090,12 +14976,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13713.803</starttime>
-						<endtime>13800.8293</endtime>
+						<starttime>4.3756</starttime>
+						<endtime>36.6464</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="13804.0461">
+			<iteration num="2" starttime="40.8194">
 				<query>[java] string to byte</query>
 				<results>
 					<result rank="1">
@@ -15152,12 +15038,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13805.7896</starttime>
-						<endtime>13818.8792</endtime>
+						<starttime>43.5632</starttime>
+						<endtime>60.0445</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="13822.4745">
+			<iteration num="3" starttime="64.9779">
 				<query>[java] string get bytes</query>
 				<results>
 					<result rank="1">
@@ -15214,14 +15100,14 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>13832.4072</starttime>
-						<endtime>13915.7664</endtime>
+						<starttime>69.1707</starttime>
+						<endtime>103.1306</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="89" starttime="0">
-			<iteration num="1" starttime="13919.0058">
+		<session num="87" starttime="0">
+			<iteration num="1" starttime="5.9034">
 				<query>[java] copy array list</query>
 				<results>
 					<result rank="1">
@@ -15278,12 +15164,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>13923.2119</starttime>
-						<endtime>14036.7396</endtime>
+						<starttime>14.6221</starttime>
+						<endtime>53.2659</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="14041.1837">
+			<iteration num="2" starttime="57.9765">
 				<query>[java] deep copy array list</query>
 				<results>
 					<result rank="1">
@@ -15340,12 +15226,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14048.7029</starttime>
-						<endtime>14054.8021</endtime>
+						<starttime>61.4441</starttime>
+						<endtime>104.8447</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="14058.6931">
+			<iteration num="3" starttime="109.0037">
 				<query>[java] deep copy  list</query>
 				<results>
 					<result rank="1">
@@ -15401,7 +15287,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="14063.2794">
+			<iteration num="4" starttime="112.4461">
 				<query>[java] deep copy array</query>
 				<results>
 					<result rank="1">
@@ -15458,14 +15344,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14072.9746</starttime>
-						<endtime>14122.8026</endtime>
+						<starttime>112.7564</starttime>
+						<endtime>115.2981</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="90" starttime="0">
-			<iteration num="1" starttime="14126.2852">
+		<session num="88" starttime="0">
+			<iteration num="1" starttime="5.8118">
 				<query>[java] print hex number</query>
 				<results>
 					<result rank="1">
@@ -15522,17 +15408,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14134.1687</starttime>
-						<endtime>14193.2785</endtime>
+						<starttime>14.7582</starttime>
+						<endtime>54.5983</endtime>
 					</click>
 					<click num="2">
 						<rank>4</rank>
-						<starttime>14198.8529</starttime>
-						<endtime>14310.7458</endtime>
+						<starttime>55.143</starttime>
+						<endtime>168.3157</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="14315.5967">
+			<iteration num="2" starttime="171.7092">
 				<query>[java] Decimal to hex number</query>
 				<results>
 					<result rank="1">
@@ -15589,19 +15475,19 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14322.7293</starttime>
-						<endtime>14356.516</endtime>
+						<starttime>174.6643</starttime>
+						<endtime>281.6703</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>14360.7563</starttime>
-						<endtime>14387.9943</endtime>
+						<starttime>284.8366</starttime>
+						<endtime>331.1775</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="91" starttime="0">
-			<iteration num="1" starttime="14391.9817">
+		<session num="89" starttime="0">
+			<iteration num="1" starttime="5.5181">
 				<query>[java] connect mysql</query>
 				<results>
 					<result rank="1">
@@ -15658,12 +15544,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14398.9044</starttime>
-						<endtime>14453.2051</endtime>
+						<starttime>8.4458</starttime>
+						<endtime>13.8233</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="14456.9397">
+			<iteration num="2" starttime="17.5179">
 				<query>[java] connect mysql hibernate</query>
 				<results>
 					<result rank="1">
@@ -15720,17 +15606,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14459.3025</starttime>
-						<endtime>14466.5602</endtime>
+						<starttime>26.5974</starttime>
+						<endtime>64.8204</endtime>
 					</click>
 					<click num="2">
 						<rank>2</rank>
-						<starttime>14467.8727</starttime>
-						<endtime>14523.4655</endtime>
+						<starttime>68.1056</starttime>
+						<endtime>96.5876</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="14528.3759">
+			<iteration num="3" starttime="100.5454">
 				<query>[java] mysql library</query>
 				<results>
 					<result rank="1">
@@ -15786,7 +15672,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="4" starttime="14533.0204">
+			<iteration num="4" starttime="103.753">
 				<query>[java] connect mysql datasource</query>
 				<results>
 					<result rank="1">
@@ -15843,14 +15729,14 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>14537.6142</starttime>
-						<endtime>14548.4064</endtime>
+						<starttime>111.5404</starttime>
+						<endtime>121.6017</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="92" starttime="0">
-			<iteration num="1" starttime="14552.5436">
+		<session num="90" starttime="0">
+			<iteration num="1" starttime="4.5661">
 				<query>[java] enum</query>
 				<results>
 					<result rank="1">
@@ -15907,12 +15793,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14554.6925</starttime>
-						<endtime>14560.3396</endtime>
+						<starttime>10.412</starttime>
+						<endtime>108.5497</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="14564.5197">
+			<iteration num="2" starttime="112.914">
 				<query>[java] enum start value</query>
 				<results>
 					<result rank="1">
@@ -15969,14 +15855,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14569.8651</starttime>
-						<endtime>14613.1271</endtime>
+						<starttime>115.6398</starttime>
+						<endtime>145.1834</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="93" starttime="0">
-			<iteration num="1" starttime="14616.4651">
+		<session num="91" starttime="0">
+			<iteration num="1" starttime="4.0335">
 				<query>[java] spring boot no access control allow</query>
 				<results>
 					<result rank="1">
@@ -16033,17 +15919,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14626.375</starttime>
-						<endtime>14629.1404</endtime>
+						<starttime>4.8741</starttime>
+						<endtime>14.6091</endtime>
 					</click>
 					<click num="2">
 						<rank>3</rank>
-						<starttime>14638.1104</starttime>
-						<endtime>14643.8436</endtime>
+						<starttime>16.8691</starttime>
+						<endtime>120.2694</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="14648.0743">
+			<iteration num="2" starttime="123.3227">
 				<query>[java] spring boot no access control allow header</query>
 				<results>
 					<result rank="1">
@@ -16100,17 +15986,17 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>14657.6794</starttime>
-						<endtime>14658.8562</endtime>
+						<starttime>126.1215</starttime>
+						<endtime>168.0656</endtime>
 					</click>
 					<click num="2">
 						<rank>10</rank>
-						<starttime>14668.5367</starttime>
-						<endtime>14693.4718</endtime>
+						<starttime>170.1281</starttime>
+						<endtime>211.9458</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="14698.4193">
+			<iteration num="3" starttime="215.2994">
 				<query>[java] spring boot cross domain</query>
 				<results>
 					<result rank="1">
@@ -16167,17 +16053,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14708.0788</starttime>
-						<endtime>14715.3813</endtime>
+						<starttime>216.6871</starttime>
+						<endtime>315.6899</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>14722.7864</starttime>
-						<endtime>14733.7291</endtime>
+						<starttime>324.7417</starttime>
+						<endtime>342.3778</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="4" starttime="14736.8362">
+			<iteration num="4" starttime="346.0722">
 				<query>[java] spring boot CORS</query>
 				<results>
 					<result rank="1">
@@ -16234,12 +16120,12 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>14741.5372</starttime>
-						<endtime>14748.597</endtime>
+						<starttime>349.1431</starttime>
+						<endtime>374.4047</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="5" starttime="14752.0018">
+			<iteration num="5" starttime="378.0499">
 				<query>[java] spring boot @CrossOrigin</query>
 				<results>
 					<result rank="1">
@@ -16296,12 +16182,12 @@
 				<clicked>
 					<click num="1">
 						<rank>7</rank>
-						<starttime>14754.669</starttime>
-						<endtime>14770.2555</endtime>
+						<starttime>381.2844</starttime>
+						<endtime>395.7677</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="6" starttime="14774.4374">
+			<iteration num="6" starttime="398.8745">
 				<query>[java] spring boot CrossOrigin annotation</query>
 				<results>
 					<result rank="1">
@@ -16358,12 +16244,12 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>14783.8551</starttime>
-						<endtime>14795.4005</endtime>
+						<starttime>402.1225</starttime>
+						<endtime>420.5828</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="7" starttime="14798.8149">
+			<iteration num="7" starttime="424.1927">
 				<query>[java] spring boot CorsFilter</query>
 				<results>
 					<result rank="1">
@@ -16420,19 +16306,19 @@
 				<clicked>
 					<click num="1">
 						<rank>4</rank>
-						<starttime>14799.2026</starttime>
-						<endtime>14841.3758</endtime>
+						<starttime>426.0741</starttime>
+						<endtime>447.684</endtime>
 					</click>
 					<click num="2">
 						<rank>8</rank>
-						<starttime>14846.3396</starttime>
-						<endtime>14864.077</endtime>
+						<starttime>448.2199</starttime>
+						<endtime>462.5473</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="94" starttime="0">
-			<iteration num="1" starttime="14869.0291">
+		<session num="92" starttime="0">
+			<iteration num="1" starttime="5.8923">
 				<query>[java] connect mongodb</query>
 				<results>
 					<result rank="1">
@@ -16489,12 +16375,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>14874.406</starttime>
-						<endtime>14883.0792</endtime>
+						<starttime>8.6962</starttime>
+						<endtime>13.4803</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="14886.1966">
+			<iteration num="2" starttime="17.6618">
 				<query>[java] mongoclient</query>
 				<results>
 					<result rank="1">
@@ -16550,7 +16436,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="3" starttime="14890.864">
+			<iteration num="3" starttime="20.7605">
 				<query>[java] mongoclient parameters</query>
 				<results>
 					<result rank="1">
@@ -16607,14 +16493,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>14898.4005</starttime>
-						<endtime>14965.4902</endtime>
+						<starttime>22.4081</starttime>
+						<endtime>76.0656</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="95" starttime="0">
-			<iteration num="1" starttime="14969.0426">
+		<session num="93" starttime="0">
+			<iteration num="1" starttime="5.9761">
 				<query>[java] sort map by key</query>
 				<results>
 					<result rank="1">
@@ -16671,12 +16557,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>14976.2092</starttime>
-						<endtime>15028.1642</endtime>
+						<starttime>12.2086</starttime>
+						<endtime>47.0093</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="15031.2619">
+			<iteration num="2" starttime="50.8583">
 				<query>[java] sort map use TreeMap</query>
 				<results>
 					<result rank="1">
@@ -16733,12 +16619,12 @@
 				<clicked>
 					<click num="1">
 						<rank>2</rank>
-						<starttime>15035.97</starttime>
-						<endtime>15048.6159</endtime>
+						<starttime>57.2687</starttime>
+						<endtime>63.9781</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="15053.2044">
+			<iteration num="3" starttime="68.1062">
 				<query>[java] sort map by value</query>
 				<results>
 					<result rank="1">
@@ -16795,14 +16681,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15060.6171</starttime>
-						<endtime>15061.5587</endtime>
+						<starttime>76.64</starttime>
+						<endtime>113.9831</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="96" starttime="0">
-			<iteration num="1" starttime="15066.5379">
+		<session num="94" starttime="0">
+			<iteration num="1" starttime="4.5408">
 				<query>[java] json</query>
 				<results>
 					<result rank="1">
@@ -16859,17 +16745,17 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15073.4849</starttime>
-						<endtime>15106.4787</endtime>
+						<starttime>12.0379</starttime>
+						<endtime>65.6559</endtime>
 					</click>
 					<click num="2">
 						<rank>5</rank>
-						<starttime>15111.7362</starttime>
-						<endtime>15115.4898</endtime>
+						<starttime>66.929</starttime>
+						<endtime>68.386</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="15118.6661">
+			<iteration num="2" starttime="72.5105">
 				<query>[java] JsonMappingException: No suitable constructor</query>
 				<results>
 					<result rank="1">
@@ -16926,14 +16812,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15125.4187</starttime>
-						<endtime>15161.3315</endtime>
+						<starttime>77.0412</starttime>
+						<endtime>116.5581</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="97" starttime="0">
-			<iteration num="1" starttime="15165.5213">
+		<session num="95" starttime="0">
+			<iteration num="1" starttime="4.8511">
 				<query>[java] package spring boot</query>
 				<results>
 					<result rank="1">
@@ -16989,7 +16875,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="15168.5873">
+			<iteration num="2" starttime="8.0631">
 				<query>[java] mvn package spring boot</query>
 				<results>
 					<result rank="1">
@@ -17045,7 +16931,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="3" starttime="15172.2116">
+			<iteration num="3" starttime="11.7495">
 				<query>[java] mvn package spring boot docker</query>
 				<results>
 					<result rank="1">
@@ -17102,8 +16988,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="98" starttime="0">
-			<iteration num="1" starttime="15176.181">
+		<session num="96" starttime="0">
+			<iteration num="1" starttime="4.5248">
 				<query>[java] substring</query>
 				<results>
 					<result rank="1">
@@ -17159,7 +17045,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="15180.6149">
+			<iteration num="2" starttime="8.4253">
 				<query>[java] get substring</query>
 				<results>
 					<result rank="1">
@@ -17216,14 +17102,14 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>15180.8034</starttime>
-						<endtime>15196.0623</endtime>
+						<starttime>9.7399</starttime>
+						<endtime>51.6563</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="99" starttime="0">
-			<iteration num="1" starttime="15200.2359">
+		<session num="97" starttime="0">
+			<iteration num="1" starttime="4.0224">
 				<query>[java] call js code in java</query>
 				<results>
 					<result rank="1">
@@ -17280,12 +17166,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15205.7669</starttime>
-						<endtime>15222.8878</endtime>
+						<starttime>5.0154</starttime>
+						<endtime>54.2569</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="15227.736">
+			<iteration num="2" starttime="57.5594">
 				<query>[java] scriptengine</query>
 				<results>
 					<result rank="1">
@@ -17342,12 +17228,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15234.6619</starttime>
-						<endtime>15251.7117</endtime>
+						<starttime>63.4193</starttime>
+						<endtime>82.0087</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="3" starttime="15255.6486">
+			<iteration num="3" starttime="86.6227">
 				<query>[java] how to use scriptengine</query>
 				<results>
 					<result rank="1">
@@ -17404,14 +17290,14 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>15261.1759</starttime>
-						<endtime>15326.5436</endtime>
+						<starttime>92.6199</starttime>
+						<endtime>95.6085</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="100" starttime="0">
-			<iteration num="1" starttime="15330.9088">
+		<session num="98" starttime="0">
+			<iteration num="1" starttime="4.6691">
 				<query>[java] load and read pictures</query>
 				<results>
 					<result rank="1">
@@ -17467,7 +17353,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="15334.3936">
+			<iteration num="2" starttime="9.4272">
 				<query>[java] how to load and read pictures</query>
 				<results>
 					<result rank="1">
@@ -17524,8 +17410,122 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="102" starttime="0">
-			<iteration num="1" starttime="15338.351">
+		<session num="99" starttime="0">
+			<iteration num="1" starttime="5.974">
+				<query>[Java] Lock</query>
+				<results>
+					<result rank="1">
+						<url>https://stackoverflow.com/questions/4201713/synchronization-vs-lock?r=SearchResults</url>
+						<postid>4201713</postid>
+						<title>Q: Synchronization vs Lock</title>
+					</result>
+					<result rank="2">
+						<url>https://stackoverflow.com/questions/3047564/java-synchronized-method-lock-on-object-or-method?r=SearchResults</url>
+						<postid>3047564</postid>
+						<title>Q: Java synchronized method lock on object, or method?</title>
+					</result>
+					<result rank="3">
+						<url>https://stackoverflow.com/questions/11821801/why-use-a-reentrantlock-if-one-can-use-synchronizedthis?r=SearchResults</url>
+						<postid>11821801</postid>
+						<title>Q: Why use a ReentrantLock if one can use synchronized(this)?</title>
+					</result>
+					<result rank="4">
+						<url>https://stackoverflow.com/questions/442564/avoid-synchronizedthis-in-java?r=SearchResults</url>
+						<postid>442564</postid>
+						<title>Q: Avoid synchronized(this) in Java?</title>
+					</result>
+					<result rank="5">
+						<url>https://stackoverflow.com/questions/437620/java-synchronized-static-methods-lock-on-object-or-class?r=SearchResults</url>
+						<postid>437620</postid>
+						<title>Q: Java synchronized static methods: lock on object or class</title>
+					</result>
+					<result rank="6">
+						<url>https://stackoverflow.com/questions/1059580/distributed-lock-service?r=SearchResults</url>
+						<postid>1059580</postid>
+						<title>Q: Distributed Lock Service [closed]</title>
+					</result>
+					<result rank="7">
+						<url>https://stackoverflow.com/questions/464784/java-reentrantreadwritelocks-how-to-safely-acquire-write-lock?r=SearchResults</url>
+						<postid>464784</postid>
+						<title>Q: Java ReentrantReadWriteLocks - how to safely acquire write lock?</title>
+					</result>
+					<result rank="8">
+						<url>https://stackoverflow.com/questions/19840594/private-lock-object-and-intrinsic-lock?r=SearchResults</url>
+						<postid>19840594</postid>
+						<title>Q: private lock object and intrinsic lock</title>
+					</result>
+					<result rank="9">
+						<url>https://stackoverflow.com/questions/8354758/designing-a-key-based-lock-or-lock-map?r=SearchResults</url>
+						<postid>8354758</postid>
+						<title>Q: Designing a key based lock (or lock map)</title>
+					</result>
+					<result rank="10">
+						<url>https://stackoverflow.com/questions/32774399/why-lock-condition-await-must-hold-the-lock?r=SearchResults</url>
+						<postid>32774399</postid>
+						<title>Q: Why Lock condition await must hold the lock</title>
+					</result>
+				</results>
+				<clicked/>
+			</iteration>
+			<iteration num="2" starttime="10.4287">
+				<query>[Java]  synchronization</query>
+				<results>
+					<result rank="1">
+						<url>https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable/40878?r=SearchResults#40878</url>
+						<postid>40878</postid>
+						<title>A: Differences between HashMap and Hashtable?</title>
+					</result>
+					<result rank="2">
+						<url>https://stackoverflow.com/questions/1085709/what-does-synchronized-mean?r=SearchResults</url>
+						<postid>1085709</postid>
+						<title>Q: What does 'synchronized' mean?</title>
+					</result>
+					<result rank="3">
+						<url>https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer/355092?r=SearchResults#355092</url>
+						<postid>355092</postid>
+						<title>A: Difference between StringBuilder and StringBuffer</title>
+					</result>
+					<result rank="4">
+						<url>https://stackoverflow.com/questions/442564/avoid-synchronizedthis-in-java?r=SearchResults</url>
+						<postid>442564</postid>
+						<title>Q: Avoid synchronized(this) in Java?</title>
+					</result>
+					<result rank="5">
+						<url>https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries/2707195?r=SearchResults#2707195</url>
+						<postid>2707195</postid>
+						<title>A: Examples of GoF Design Patterns in Java's core libraries</title>
+					</result>
+					<result rank="6">
+						<url>https://stackoverflow.com/questions/11165852/java-singleton-and-synchronization?r=SearchResults</url>
+						<postid>11165852</postid>
+						<title>Q: Java Singleton and Synchronization</title>
+					</result>
+					<result rank="7">
+						<url>https://stackoverflow.com/questions/574240/is-there-an-advantage-to-use-a-synchronized-method-instead-of-a-synchronized-blo?r=SearchResults</url>
+						<postid>574240</postid>
+						<title>Q: Is there an advantage to use a Synchronized Method instead of a Synchronized Block?</title>
+					</result>
+					<result rank="8">
+						<url>https://stackoverflow.com/questions/4201713/synchronization-vs-lock?r=SearchResults</url>
+						<postid>4201713</postid>
+						<title>Q: Synchronization vs Lock</title>
+					</result>
+					<result rank="9">
+						<url>https://stackoverflow.com/questions/541194/c-sharp-version-of-javas-synchronized-keyword?r=SearchResults</url>
+						<postid>541194</postid>
+						<title>Q: C# version of java's synchronized keyword?</title>
+					</result>
+					<result rank="10">
+						<url>https://stackoverflow.com/questions/10982941/java-synchronization-not-working-as-expected?r=SearchResults</url>
+						<postid>10982941</postid>
+						<title>Q: Java Synchronization Not Working as Expected</title>
+					</result>
+				</results>
+				<clicked/>
+			</iteration>
+		</session>
+		<session num="100" starttime="0">
+			<iteration num="1" starttime="5.3911">
 				<query>[java] delete end blank of string</query>
 				<results>
 					<result rank="1">
@@ -17582,12 +17582,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15339.6474</starttime>
-						<endtime>15361.2965</endtime>
+						<starttime>13.5077</starttime>
+						<endtime>23.8944</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="15366.2514">
+			<iteration num="2" starttime="28.8848">
 				<query>[java] replaceall parameters</query>
 				<results>
 					<result rank="1">
@@ -17644,14 +17644,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15373.1379</starttime>
-						<endtime>15376.1378</endtime>
+						<starttime>35.67</starttime>
+						<endtime>90.0921</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="103" starttime="0">
-			<iteration num="1" starttime="15381.1228">
+		<session num="101" starttime="0">
+			<iteration num="1" starttime="5.6969">
 				<query>[JAVA] difference between primitive type (int) and object type</query>
 				<results>
 					<result rank="1">
@@ -17707,7 +17707,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="15385.1903">
+			<iteration num="2" starttime="9.7007">
 				<query>[JAVA] what is the difference between an primitive type  and an object type</query>
 				<results>
 					<result rank="1">
@@ -17764,14 +17764,14 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15389.2039</starttime>
-						<endtime>15416.9272</endtime>
+						<starttime>12.7706</starttime>
+						<endtime>122.5089</endtime>
 					</click>
 				</clicked>
 			</iteration>
 		</session>
-		<session num="104" starttime="0">
-			<iteration num="1" starttime="15421.9073">
+		<session num="102" starttime="0">
+			<iteration num="1" starttime="5.0249">
 				<query>[Java] read large files</query>
 				<results>
 					<result rank="1">
@@ -17828,12 +17828,12 @@
 				<clicked>
 					<click num="1">
 						<rank>1</rank>
-						<starttime>15422.204</starttime>
-						<endtime>15432.716</endtime>
+						<starttime>11.089</starttime>
+						<endtime>26.7411</endtime>
 					</click>
 				</clicked>
 			</iteration>
-			<iteration num="2" starttime="15436.7956">
+			<iteration num="2" starttime="30.1443">
 				<query>[Java] read large files using multi-threading</query>
 				<results>
 					<result rank="1">
@@ -17890,8 +17890,8 @@
 				<clicked/>
 			</iteration>
 		</session>
-		<session num="105" starttime="0">
-			<iteration num="1" starttime="15440.2382">
+		<session num="103" starttime="0">
+			<iteration num="1" starttime="4.5367">
 				<query>[JAVA] usage of Garbage Collection</query>
 				<results>
 					<result rank="1">
@@ -17947,7 +17947,7 @@
 				</results>
 				<clicked/>
 			</iteration>
-			<iteration num="2" starttime="15444.4958">
+			<iteration num="2" starttime="8.0302">
 				<query>[JAVA] how to use  Garbage Collection</query>
 				<results>
 					<result rank="1">
@@ -18004,8 +18004,8 @@
 				<clicked>
 					<click num="1">
 						<rank>3</rank>
-						<starttime>15445.3008</starttime>
-						<endtime>15536.209</endtime>
+						<starttime>15.7424</starttime>
+						<endtime>55.3641</endtime>
 					</click>
 				</clicked>
 			</iteration>
