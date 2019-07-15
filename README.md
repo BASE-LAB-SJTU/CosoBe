@@ -2,7 +2,7 @@
 A dataset is used for evaluating code search session approaches.
 
 ## Sessions
-The sessions could be downloaded from [sessions.xml](https://github.com/BASE-LAB-SJTU/CosBench/blob/master/sessions.xml)
+The sessions could be downloaded from [sessions.xml](https://github.com/BASE-LAB-SJTU/CosoBe/blob/master/sessions.xml)
 
 This XML file contains 103 sessions. The session example corresponds to：
 ```
@@ -34,7 +34,7 @@ This XML file contains 103 sessions. The session example corresponds to：
 ```
 
 ## Labels
-The labels could be downloaded from [labels.csv](https://github.com/BASE-LAB-SJTU/CosBench/blob/master/labels.csv)
+The labels could be downloaded from [labels.csv](https://github.com/BASE-LAB-SJTU/CosoBe/blob/master/labels.csv)
 
 This CSV file contains the relevance labels between queries and code documents in sessions. The format is :
 
